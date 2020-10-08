@@ -1,0 +1,39 @@
+swagger: "2.0"
+info:
+  title: workers API
+  version: "1.0"
+  description: "workers api for job interviews"
+consumes:
+  - application/json
+produces:
+  - application/json
+paths:
+  /allNames:
+    get:
+      tags: [Worker]
+      operationId: ServerMain.getNames
+      summary: Get all worker names
+      responses:
+        200:
+          description: return all names
+  # /users:
+  #   post:
+  #     summary: Creates a new user.
+  #     parameters:
+  #       - in: body
+  #         name: user
+  #         description: The user to create.
+  #         schema:
+  #           type: object
+  #           required:
+  #             - userName
+  #           properties:
+  #             userName:
+  #               type: string
+  #             firstName:
+  #               type: string
+  #             lastName:
+  #               type: string
+  #     responses:
+  #       201:
+  #         description: Created

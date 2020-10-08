@@ -1,0 +1,1770 @@
+2019-05-27 08:53:12,369-serverLog-INFO-Got birthday: 12-2-1979
+2019-05-27 08:53:12,369-serverLog-INFO-Got programs: [Java, C, excel, python]
+2019-05-27 08:53:12,369-serverLog-INFO-Parsed programs: ['Java', 'C', 'excel', 'python']
+2019-05-27 08:53:12,369-serverLog-INFO-Parsed employee: {'department': 'qa', 'name': 'Dummy_Emp', 'birthday': {'day': '12', 'year': '1979', 'month': '2'}, 'address': 'Misgav', 'programs': ['Java', 'C', 'excel', 'python'], 'salary': '16300'}
+2019-05-27 08:53:12,369-serverLog-INFO-add_emp: Dummy_Emp
+2019-05-27 08:53:12,370-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,370-serverLog-INFO-result is True
+2019-05-27 08:53:12,375-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,375-serverLog-INFO-result is True
+2019-05-27 08:53:12,382-serverLog-INFO-Got birthday: {'day': '12', 'month': '11', 'year': '1985'}
+2019-05-27 08:53:12,382-serverLog-INFO-Got programs: ['python', 'excel', 'C']
+2019-05-27 08:53:12,382-serverLog-INFO-Parsed programs: ['python', 'excel', 'C']
+2019-05-27 08:53:12,382-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'David', 'birthday': {'day': '12', 'year': '1985', 'month': '11'}, 'address': 'Misgav', 'programs': ['python', 'excel', 'C'], 'salary': '987'}
+2019-05-27 08:53:12,382-serverLog-INFO-Got birthday: {'day': '19', 'month': '12', 'year': '1972'}
+2019-05-27 08:53:12,382-serverLog-INFO-Got programs: ['excel', 'ASP', 'Java', 'python', 'C']
+2019-05-27 08:53:12,382-serverLog-INFO-Parsed programs: ['excel', 'ASP', 'Java', 'python', 'C']
+2019-05-27 08:53:12,382-serverLog-INFO-Parsed employee: {'department': 'qa', 'name': 'Moshe', 'birthday': {'day': '19', 'year': '1972', 'month': '12'}, 'address': 'Misgav', 'programs': ['excel', 'ASP', 'Java', 'python', 'C'], 'salary': '10000'}
+2019-05-27 08:53:12,382-serverLog-INFO-Got birthday: {'day': '24', 'month': '11', 'year': '1975'}
+2019-05-27 08:53:12,382-serverLog-INFO-Got programs: ['Java', 'snake', 'excel']
+2019-05-27 08:53:12,382-serverLog-INFO-Parsed programs: ['Java', 'snake', 'excel']
+2019-05-27 08:53:12,382-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'Elad', 'birthday': {'day': '24', 'year': '1975', 'month': '11'}, 'address': 'Misgav', 'programs': ['Java', 'snake', 'excel'], 'salary': '5000'}
+2019-05-27 08:53:12,382-serverLog-INFO-Got birthday: {'day': '11', 'month': '2', 'year': '1971'}
+2019-05-27 08:53:12,382-serverLog-INFO-Got programs: ['excel', 'Java', 'C']
+2019-05-27 08:53:12,382-serverLog-INFO-Parsed programs: ['excel', 'Java', 'C']
+2019-05-27 08:53:12,382-serverLog-INFO-Parsed employee: {'department': 'management', 'name': 'Jonathan', 'birthday': {'day': '11', 'year': '1971', 'month': '2'}, 'address': 'Tel-Aviv', 'programs': ['excel', 'Java', 'C'], 'salary': '365'}
+2019-05-27 08:53:12,383-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,383-serverLog-INFO-result is True
+2019-05-27 08:53:12,389-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,389-serverLog-INFO-result is True
+2019-05-27 08:53:12,392-serverLog-INFO-Got birthday: 28-12-1990
+2019-05-27 08:53:12,392-serverLog-INFO-Got programs: [C, excel]
+2019-05-27 08:53:12,392-serverLog-INFO-Parsed programs: ['C', 'excel']
+2019-05-27 08:53:12,392-serverLog-INFO-Parsed employee: {'department': 'qa', 'name': 'Emp1', 'birthday': {'day': '28', 'year': '1990', 'month': '12'}, 'address': 'Jerusalem', 'programs': ['C', 'excel'], 'salary': '18900'}
+2019-05-27 08:53:12,392-serverLog-INFO-add_emp: Emp1
+2019-05-27 08:53:12,393-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,393-serverLog-INFO-result is True
+2019-05-27 08:53:12,395-serverLog-INFO-Got birthday: 14-10-1970
+2019-05-27 08:53:12,396-serverLog-INFO-Got programs: [Java, snake, C]
+2019-05-27 08:53:12,396-serverLog-INFO-Parsed programs: ['Java', 'snake', 'C']
+2019-05-27 08:53:12,396-serverLog-INFO-Parsed employee: {'department': 'management', 'name': 'Emp2', 'birthday': {'day': '14', 'year': '1970', 'month': '10'}, 'address': 'Tel-Aviv', 'programs': ['Java', 'snake', 'C'], 'salary': '34900'}
+2019-05-27 08:53:12,396-serverLog-INFO-add_emp: Emp2
+2019-05-27 08:53:12,396-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,396-serverLog-INFO-result is True
+2019-05-27 08:53:12,399-serverLog-INFO-Got birthday: 15-9-1997
+2019-05-27 08:53:12,399-serverLog-INFO-Got programs: [python]
+2019-05-27 08:53:12,399-serverLog-INFO-Parsed programs: ['python']
+2019-05-27 08:53:12,399-serverLog-INFO-Parsed employee: {'department': 'management', 'name': 'Emp3', 'birthday': {'day': '15', 'year': '1997', 'month': '9'}, 'address': 'Tel-Aviv', 'programs': ['python'], 'salary': '16000'}
+2019-05-27 08:53:12,399-serverLog-INFO-add_emp: Emp3
+2019-05-27 08:53:12,399-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,399-serverLog-INFO-result is True
+2019-05-27 08:53:12,402-serverLog-INFO-Got birthday: 9-10-1977
+2019-05-27 08:53:12,402-serverLog-INFO-Got programs: [C, excel]
+2019-05-27 08:53:12,402-serverLog-INFO-Parsed programs: ['C', 'excel']
+2019-05-27 08:53:12,402-serverLog-INFO-Parsed employee: {'department': 'management', 'name': 'Emp4', 'birthday': {'day': '9', 'year': '1977', 'month': '10'}, 'address': 'Jerusalem', 'programs': ['C', 'excel'], 'salary': '11400'}
+2019-05-27 08:53:12,402-serverLog-INFO-add_emp: Emp4
+2019-05-27 08:53:12,402-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,402-serverLog-INFO-result is True
+2019-05-27 08:53:12,405-serverLog-INFO-Got birthday: 11-2-1984
+2019-05-27 08:53:12,405-serverLog-INFO-Got programs: [C, snake, Java]
+2019-05-27 08:53:12,405-serverLog-INFO-Parsed programs: ['C', 'snake', 'Java']
+2019-05-27 08:53:12,405-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'Emp5', 'birthday': {'day': '11', 'year': '1984', 'month': '2'}, 'address': 'Tel-Aviv', 'programs': ['C', 'snake', 'Java'], 'salary': '33800'}
+2019-05-27 08:53:12,406-serverLog-INFO-add_emp: Emp5
+2019-05-27 08:53:12,406-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,406-serverLog-INFO-result is True
+2019-05-27 08:53:12,409-serverLog-INFO-Got birthday: 15-11-1993
+2019-05-27 08:53:12,409-serverLog-INFO-Got programs: [ASP, excel]
+2019-05-27 08:53:12,409-serverLog-INFO-Parsed programs: ['ASP', 'excel']
+2019-05-27 08:53:12,409-serverLog-INFO-Parsed employee: {'department': 'dev', 'name': 'Emp6', 'birthday': {'day': '15', 'year': '1993', 'month': '11'}, 'address': 'Tel-Aviv', 'programs': ['ASP', 'excel'], 'salary': '16400'}
+2019-05-27 08:53:12,409-serverLog-INFO-add_emp: Emp6
+2019-05-27 08:53:12,409-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,409-serverLog-INFO-result is True
+2019-05-27 08:53:12,412-serverLog-INFO-Got birthday: 5-1-1973
+2019-05-27 08:53:12,412-serverLog-INFO-Got programs: [Java, excel]
+2019-05-27 08:53:12,412-serverLog-INFO-Parsed programs: ['Java', 'excel']
+2019-05-27 08:53:12,412-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'Emp7', 'birthday': {'day': '5', 'year': '1973', 'month': '1'}, 'address': 'Tel-Aviv', 'programs': ['Java', 'excel'], 'salary': '10800'}
+2019-05-27 08:53:12,412-serverLog-INFO-add_emp: Emp7
+2019-05-27 08:53:12,413-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,413-serverLog-INFO-result is True
+2019-05-27 08:53:12,415-serverLog-INFO-Got birthday: 11-10-1964
+2019-05-27 08:53:12,416-serverLog-INFO-Got programs: [python, snake]
+2019-05-27 08:53:12,416-serverLog-INFO-Parsed programs: ['python', 'snake']
+2019-05-27 08:53:12,416-serverLog-INFO-Parsed employee: {'department': 'dev', 'name': 'Emp8', 'birthday': {'day': '11', 'year': '1964', 'month': '10'}, 'address': 'Tel-Aviv', 'programs': ['python', 'snake'], 'salary': '10400'}
+2019-05-27 08:53:12,416-serverLog-INFO-add_emp: Emp8
+2019-05-27 08:53:12,416-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,416-serverLog-INFO-result is True
+2019-05-27 08:53:12,419-serverLog-INFO-Got birthday: 10-12-1968
+2019-05-27 08:53:12,419-serverLog-INFO-Got programs: [python, excel]
+2019-05-27 08:53:12,419-serverLog-INFO-Parsed programs: ['python', 'excel']
+2019-05-27 08:53:12,419-serverLog-INFO-Parsed employee: {'department': 'management', 'name': 'Emp9', 'birthday': {'day': '10', 'year': '1968', 'month': '12'}, 'address': 'Jerusalem', 'programs': ['python', 'excel'], 'salary': '8900'}
+2019-05-27 08:53:12,419-serverLog-INFO-add_emp: Emp9
+2019-05-27 08:53:12,419-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,419-serverLog-INFO-result is True
+2019-05-27 08:53:12,422-serverLog-INFO-Got birthday: 8-8-1957
+2019-05-27 08:53:12,422-serverLog-INFO-Got programs: [snake, C, python]
+2019-05-27 08:53:12,422-serverLog-INFO-Parsed programs: ['snake', 'C', 'python']
+2019-05-27 08:53:12,422-serverLog-INFO-Parsed employee: {'department': 'dev', 'name': 'Emp10', 'birthday': {'day': '8', 'year': '1957', 'month': '8'}, 'address': 'Tel-Aviv', 'programs': ['snake', 'C', 'python'], 'salary': '5200'}
+2019-05-27 08:53:12,422-serverLog-INFO-add_emp: Emp10
+2019-05-27 08:53:12,423-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,423-serverLog-INFO-result is True
+2019-05-27 08:53:12,425-serverLog-INFO-Got birthday: 19-1-1993
+2019-05-27 08:53:12,425-serverLog-INFO-Got programs: [excel, snake, C]
+2019-05-27 08:53:12,425-serverLog-INFO-Parsed programs: ['excel', 'snake', 'C']
+2019-05-27 08:53:12,425-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'Wrong-Emp', 'birthday': {'day': '19', 'year': '1993', 'month': '1'}, 'address': 'Jerusalem', 'programs': ['excel', 'snake', 'C'], 'salary': '25800'}
+2019-05-27 08:53:12,425-serverLog-INFO-add_emp: Wrong-Emp
+2019-05-27 08:53:12,426-serverLog-INFO-result is Employee limit reached. Cannot add another one.
+2019-05-27 08:53:12,429-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,429-serverLog-INFO-result is True
+2019-05-27 08:53:12,432-serverLog-INFO-Got birthday: 14-10-1955
+2019-05-27 08:53:12,432-serverLog-INFO-Got programs: [snake, python, ASP, Java]
+2019-05-27 08:53:12,432-serverLog-INFO-Parsed programs: ['snake', 'python', 'ASP', 'Java']
+2019-05-27 08:53:12,432-serverLog-INFO-Parsed employee: {'department': 'qa', 'name': 'HighSal', 'birthday': {'day': '14', 'year': '1955', 'month': '10'}, 'address': 'Misgav', 'programs': ['snake', 'python', 'ASP', 'Java'], 'salary': '35500'}
+2019-05-27 08:53:12,432-serverLog-INFO-add_emp: HighSal
+2019-05-27 08:53:12,433-serverLog-INFO-result is Employee's salary is too high. Cannot add this employee.
+2019-05-27 08:53:12,435-serverLog-INFO-Got birthday: 16-2-1991
+2019-05-27 08:53:12,435-serverLog-INFO-Got programs: [snake, ASP, Java, python]
+2019-05-27 08:53:12,435-serverLog-INFO-Parsed programs: ['snake', 'ASP', 'Java', 'python']
+2019-05-27 08:53:12,435-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'NormalSal', 'birthday': {'day': '16', 'year': '1991', 'month': '2'}, 'address': 'Tel-Aviv', 'programs': ['snake', 'ASP', 'Java', 'python'], 'salary': '15500'}
+2019-05-27 08:53:12,435-serverLog-INFO-add_emp: NormalSal
+2019-05-27 08:53:12,436-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,436-serverLog-INFO-result is True
+2019-05-27 08:53:12,438-serverLog-INFO-Got birthday: 6-3-1966
+2019-05-27 08:53:12,438-serverLog-INFO-Got programs: [ASP, excel]
+2019-05-27 08:53:12,438-serverLog-INFO-Parsed programs: ['ASP', 'excel']
+2019-05-27 08:53:12,438-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'Other_Emp', 'birthday': {'day': '6', 'year': '1966', 'month': '3'}, 'address': 'Jerusalem', 'programs': ['ASP', 'excel'], 'salary': '1500'}
+2019-05-27 08:53:12,438-serverLog-INFO-add_emp: Other_Emp
+2019-05-27 08:53:12,439-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,439-serverLog-INFO-result is True
+2019-05-27 08:53:12,441-serverLog-INFO-result is Salary too high
+2019-05-27 08:53:12,443-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,443-serverLog-INFO-result is Employee NormalSal's salary would exceed. Therefore salary will not update. (Other employees' salary was updated.) 
+2019-05-27 08:53:12,447-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,447-serverLog-INFO-result is True
+2019-05-27 08:53:12,450-serverLog-INFO-Got birthday: 01-01-1953
+2019-05-27 08:53:12,450-serverLog-INFO-Got programs: [Java, ASP]
+2019-05-27 08:53:12,450-serverLog-INFO-Parsed programs: ['Java', 'ASP']
+2019-05-27 08:53:12,450-serverLog-INFO-Parsed employee: {'department': 'dev', 'name': 'OldAge', 'birthday': {'day': '01', 'year': '1953', 'month': '01'}, 'address': 'Jerusalem', 'programs': ['Java', 'ASP'], 'salary': '28400'}
+2019-05-27 08:53:12,450-serverLog-INFO-add_emp: OldAge
+2019-05-27 08:53:12,450-serverLog-INFO-result is Note employee's age. Consider retiring this employee.
+2019-05-27 08:53:12,454-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,454-serverLog-INFO-result is True
+2019-05-27 08:53:12,457-serverLog-INFO-Got birthday: 01-01-2000
+2019-05-27 08:53:12,457-serverLog-INFO-Got programs: [Java, ASP]
+2019-05-27 08:53:12,457-serverLog-INFO-Parsed programs: ['Java', 'ASP']
+2019-05-27 08:53:12,457-serverLog-INFO-Parsed employee: {'department': 'qa', 'name': 'Emp_Jan', 'birthday': {'day': '01', 'year': '2000', 'month': '01'}, 'address': 'Misgav', 'programs': ['Java', 'ASP'], 'salary': '10100'}
+2019-05-27 08:53:12,457-serverLog-INFO-add_emp: Emp_Jan
+2019-05-27 08:53:12,457-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,457-serverLog-INFO-result is True
+2019-05-27 08:53:12,459-serverLog-INFO-Got birthday: 01-02-2000
+2019-05-27 08:53:12,459-serverLog-INFO-Got programs: [python]
+2019-05-27 08:53:12,459-serverLog-INFO-Parsed programs: ['python']
+2019-05-27 08:53:12,460-serverLog-INFO-Parsed employee: {'department': 'qa', 'name': 'Emp_Feb', 'birthday': {'day': '01', 'year': '2000', 'month': '02'}, 'address': 'Tel-Aviv', 'programs': ['python'], 'salary': '22200'}
+2019-05-27 08:53:12,460-serverLog-INFO-add_emp: Emp_Feb
+2019-05-27 08:53:12,460-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,460-serverLog-INFO-result is True
+2019-05-27 08:53:12,462-serverLog-INFO-Got birthday: 01-03-2000
+2019-05-27 08:53:12,463-serverLog-INFO-Got programs: [snake, python, C]
+2019-05-27 08:53:12,463-serverLog-INFO-Parsed programs: ['snake', 'python', 'C']
+2019-05-27 08:53:12,463-serverLog-INFO-Parsed employee: {'department': 'dev', 'name': 'Emp_Mar', 'birthday': {'day': '01', 'year': '2000', 'month': '03'}, 'address': 'Misgav', 'programs': ['snake', 'python', 'C'], 'salary': '31300'}
+2019-05-27 08:53:12,463-serverLog-INFO-add_emp: Emp_Mar
+2019-05-27 08:53:12,463-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,463-serverLog-INFO-result is True
+2019-05-27 08:53:12,466-serverLog-INFO-Got birthday: 01-04-2000
+2019-05-27 08:53:12,466-serverLog-INFO-Got programs: [ASP, python, excel, C]
+2019-05-27 08:53:12,466-serverLog-INFO-Parsed programs: ['ASP', 'python', 'excel', 'C']
+2019-05-27 08:53:12,466-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'Emp_Apr', 'birthday': {'day': '01', 'year': '2000', 'month': '04'}, 'address': 'Misgav', 'programs': ['ASP', 'python', 'excel', 'C'], 'salary': '10200'}
+2019-05-27 08:53:12,466-serverLog-INFO-add_emp: Emp_Apr
+2019-05-27 08:53:12,466-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,466-serverLog-INFO-result is True
+2019-05-27 08:53:12,469-serverLog-INFO-Got birthday: 01-05-2000
+2019-05-27 08:53:12,469-serverLog-INFO-Got programs: [ASP, C, python]
+2019-05-27 08:53:12,469-serverLog-INFO-Parsed programs: ['ASP', 'C', 'python']
+2019-05-27 08:53:12,469-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'Emp_May', 'birthday': {'day': '01', 'year': '2000', 'month': '05'}, 'address': 'Jerusalem', 'programs': ['ASP', 'C', 'python'], 'salary': '24000'}
+2019-05-27 08:53:12,469-serverLog-INFO-add_emp: Emp_May
+2019-05-27 08:53:12,469-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,469-serverLog-INFO-result is True
+2019-05-27 08:53:12,472-serverLog-INFO-Got birthday: 01-06-2000
+2019-05-27 08:53:12,472-serverLog-INFO-Got programs: [Java]
+2019-05-27 08:53:12,472-serverLog-INFO-Parsed programs: ['Java']
+2019-05-27 08:53:12,472-serverLog-INFO-Parsed employee: {'department': 'qa', 'name': 'Emp_Jun', 'birthday': {'day': '01', 'year': '2000', 'month': '06'}, 'address': 'Jerusalem', 'programs': ['Java'], 'salary': '22300'}
+2019-05-27 08:53:12,472-serverLog-INFO-add_emp: Emp_Jun
+2019-05-27 08:53:12,472-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,472-serverLog-INFO-result is True
+2019-05-27 08:53:12,475-serverLog-INFO-Got birthday: 01-07-2000
+2019-05-27 08:53:12,475-serverLog-INFO-Got programs: [C]
+2019-05-27 08:53:12,475-serverLog-INFO-Parsed programs: ['C']
+2019-05-27 08:53:12,475-serverLog-INFO-Parsed employee: {'department': 'management', 'name': 'Emp_Jul', 'birthday': {'day': '01', 'year': '2000', 'month': '07'}, 'address': 'Jerusalem', 'programs': ['C'], 'salary': '27100'}
+2019-05-27 08:53:12,475-serverLog-INFO-add_emp: Emp_Jul
+2019-05-27 08:53:12,475-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,475-serverLog-INFO-result is True
+2019-05-27 08:53:12,478-serverLog-INFO-Got birthday: 01-08-2000
+2019-05-27 08:53:12,478-serverLog-INFO-Got programs: [snake, ASP, Java]
+2019-05-27 08:53:12,478-serverLog-INFO-Parsed programs: ['snake', 'ASP', 'Java']
+2019-05-27 08:53:12,478-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'Emp_Aug', 'birthday': {'day': '01', 'year': '2000', 'month': '08'}, 'address': 'Jerusalem', 'programs': ['snake', 'ASP', 'Java'], 'salary': '5100'}
+2019-05-27 08:53:12,478-serverLog-INFO-add_emp: Emp_Aug
+2019-05-27 08:53:12,478-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,478-serverLog-INFO-result is True
+2019-05-27 08:53:12,481-serverLog-INFO-Got birthday: 01-09-2000
+2019-05-27 08:53:12,481-serverLog-INFO-Got programs: [C, ASP, snake]
+2019-05-27 08:53:12,481-serverLog-INFO-Parsed programs: ['C', 'ASP', 'snake']
+2019-05-27 08:53:12,481-serverLog-INFO-Parsed employee: {'department': 'qa', 'name': 'Emp_Sep', 'birthday': {'day': '01', 'year': '2000', 'month': '09'}, 'address': 'Tel-Aviv', 'programs': ['C', 'ASP', 'snake'], 'salary': '32500'}
+2019-05-27 08:53:12,481-serverLog-INFO-add_emp: Emp_Sep
+2019-05-27 08:53:12,482-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,482-serverLog-INFO-result is True
+2019-05-27 08:53:12,484-serverLog-INFO-Got birthday: 01-01-2000
+2019-05-27 08:53:12,485-serverLog-INFO-Got programs: [python, Java, C, ASP]
+2019-05-27 08:53:12,485-serverLog-INFO-Parsed programs: ['python', 'Java', 'C', 'ASP']
+2019-05-27 08:53:12,485-serverLog-INFO-Parsed employee: {'department': 'management', 'name': 'Emp2_Jan', 'birthday': {'day': '01', 'year': '2000', 'month': '01'}, 'address': 'Tel-Aviv', 'programs': ['python', 'Java', 'C', 'ASP'], 'salary': '12600'}
+2019-05-27 08:53:12,485-serverLog-INFO-add_emp: Emp2_Jan
+2019-05-27 08:53:12,485-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,485-serverLog-INFO-result is True
+2019-05-27 08:53:12,487-serverLog-INFO-result is ['Emp_Jan', 'Emp2_Jan']
+2019-05-27 08:53:12,490-serverLog-INFO-result is ['Emp_Feb']
+2019-05-27 08:53:12,493-serverLog-INFO-result is ['Emp_Mar']
+2019-05-27 08:53:12,495-serverLog-INFO-result is ['Emp_Apr']
+2019-05-27 08:53:12,497-serverLog-INFO-result is ['Emp_May']
+2019-05-27 08:53:12,500-serverLog-INFO-result is ['Emp_Jun']
+2019-05-27 08:53:12,502-serverLog-INFO-result is ['Emp_Jul']
+2019-05-27 08:53:12,504-serverLog-INFO-result is ['Emp_Aug']
+2019-05-27 08:53:12,507-serverLog-INFO-result is ['Emp_Sep']
+2019-05-27 08:53:12,511-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,511-serverLog-INFO-result is True
+2019-05-27 08:53:12,513-serverLog-INFO-Got birthday: 16-6-1996
+2019-05-27 08:53:12,513-serverLog-INFO-Got programs: [Java, ASP, C]
+2019-05-27 08:53:12,513-serverLog-INFO-Parsed programs: ['Java', 'ASP', 'C']
+2019-05-27 08:53:12,513-serverLog-INFO-Parsed employee: {'department': 'dev', 'name': 'Emp1', 'birthday': {'day': '16', 'year': '1996', 'month': '6'}, 'address': 'Tel-Aviv', 'programs': ['Java', 'ASP', 'C'], 'salary': '8800'}
+2019-05-27 08:53:12,513-serverLog-INFO-add_emp: Emp1
+2019-05-27 08:53:12,514-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,514-serverLog-INFO-result is True
+2019-05-27 08:53:12,516-serverLog-INFO-Got birthday: 19-8-1992
+2019-05-27 08:53:12,516-serverLog-INFO-Got programs: [C]
+2019-05-27 08:53:12,516-serverLog-INFO-Parsed programs: ['C']
+2019-05-27 08:53:12,516-serverLog-INFO-Parsed employee: {'department': 'qa', 'name': 'Emp2', 'birthday': {'day': '19', 'year': '1992', 'month': '8'}, 'address': 'Tel-Aviv', 'programs': ['C'], 'salary': '16500'}
+2019-05-27 08:53:12,516-serverLog-INFO-add_emp: Emp2
+2019-05-27 08:53:12,516-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,517-serverLog-INFO-result is True
+2019-05-27 08:53:12,519-serverLog-INFO-Got birthday: 5-5-1967
+2019-05-27 08:53:12,519-serverLog-INFO-Got programs: [snake]
+2019-05-27 08:53:12,519-serverLog-INFO-Parsed programs: ['snake']
+2019-05-27 08:53:12,519-serverLog-INFO-Parsed employee: {'department': 'dev', 'name': 'Emp3', 'birthday': {'day': '5', 'year': '1967', 'month': '5'}, 'address': 'Jerusalem', 'programs': ['snake'], 'salary': '23700'}
+2019-05-27 08:53:12,519-serverLog-INFO-add_emp: Emp3
+2019-05-27 08:53:12,519-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,519-serverLog-INFO-result is True
+2019-05-27 08:53:12,522-serverLog-INFO-Got birthday: 19-2-1988
+2019-05-27 08:53:12,522-serverLog-INFO-Got programs: [excel]
+2019-05-27 08:53:12,522-serverLog-INFO-Parsed programs: ['excel']
+2019-05-27 08:53:12,522-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'Emp4', 'birthday': {'day': '19', 'year': '1988', 'month': '2'}, 'address': 'Misgav', 'programs': ['excel'], 'salary': '15100'}
+2019-05-27 08:53:12,522-serverLog-INFO-add_emp: Emp4
+2019-05-27 08:53:12,522-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,522-serverLog-INFO-result is True
+2019-05-27 08:53:12,524-serverLog-INFO-Got birthday: 9-9-1981
+2019-05-27 08:53:12,525-serverLog-INFO-Got programs: [Java, C, python]
+2019-05-27 08:53:12,525-serverLog-INFO-Parsed programs: ['Java', 'C', 'python']
+2019-05-27 08:53:12,525-serverLog-INFO-Parsed employee: {'department': 'qa', 'name': 'Emp5', 'birthday': {'day': '9', 'year': '1981', 'month': '9'}, 'address': 'Tel-Aviv', 'programs': ['Java', 'C', 'python'], 'salary': '6600'}
+2019-05-27 08:53:12,525-serverLog-INFO-add_emp: Emp5
+2019-05-27 08:53:12,525-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,525-serverLog-INFO-result is True
+2019-05-27 08:53:12,528-serverLog-INFO-Got birthday: 23-2-1978
+2019-05-27 08:53:12,528-serverLog-INFO-Got programs: [Java, snake]
+2019-05-27 08:53:12,528-serverLog-INFO-Parsed programs: ['Java', 'snake']
+2019-05-27 08:53:12,528-serverLog-INFO-Parsed employee: {'department': 'qa', 'name': 'Emp6', 'birthday': {'day': '23', 'year': '1978', 'month': '2'}, 'address': 'Tel-Aviv', 'programs': ['Java', 'snake'], 'salary': '32100'}
+2019-05-27 08:53:12,528-serverLog-INFO-add_emp: Emp6
+2019-05-27 08:53:12,529-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,529-serverLog-INFO-result is True
+2019-05-27 08:53:12,531-serverLog-INFO-Got birthday: 14-7-2000
+2019-05-27 08:53:12,531-serverLog-INFO-Got programs: [C]
+2019-05-27 08:53:12,531-serverLog-INFO-Parsed programs: ['C']
+2019-05-27 08:53:12,531-serverLog-INFO-Parsed employee: {'department': 'management', 'name': 'Emp7', 'birthday': {'day': '14', 'year': '2000', 'month': '7'}, 'address': 'Tel-Aviv', 'programs': ['C'], 'salary': '9800'}
+2019-05-27 08:53:12,532-serverLog-INFO-add_emp: Emp7
+2019-05-27 08:53:12,532-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,532-serverLog-INFO-result is True
+2019-05-27 08:53:12,535-serverLog-INFO-Got birthday: 20-5-1963
+2019-05-27 08:53:12,535-serverLog-INFO-Got programs: [snake, excel]
+2019-05-27 08:53:12,535-serverLog-INFO-Parsed programs: ['snake', 'excel']
+2019-05-27 08:53:12,535-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'Emp8', 'birthday': {'day': '20', 'year': '1963', 'month': '5'}, 'address': 'Jerusalem', 'programs': ['snake', 'excel'], 'salary': '18500'}
+2019-05-27 08:53:12,535-serverLog-INFO-add_emp: Emp8
+2019-05-27 08:53:12,535-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,535-serverLog-INFO-result is True
+2019-05-27 08:53:12,538-serverLog-INFO-Got birthday: 18-12-1981
+2019-05-27 08:53:12,538-serverLog-INFO-Got programs: [snake]
+2019-05-27 08:53:12,538-serverLog-INFO-Parsed programs: ['snake']
+2019-05-27 08:53:12,538-serverLog-INFO-Parsed employee: {'department': 'dev', 'name': 'Emp9', 'birthday': {'day': '18', 'year': '1981', 'month': '12'}, 'address': 'Misgav', 'programs': ['snake'], 'salary': '10800'}
+2019-05-27 08:53:12,538-serverLog-INFO-add_emp: Emp9
+2019-05-27 08:53:12,538-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,538-serverLog-INFO-result is True
+2019-05-27 08:53:12,541-serverLog-INFO-Got birthday: 11-10-1995
+2019-05-27 08:53:12,541-serverLog-INFO-Got programs: [python, snake]
+2019-05-27 08:53:12,541-serverLog-INFO-Parsed programs: ['python', 'snake']
+2019-05-27 08:53:12,541-serverLog-INFO-Parsed employee: {'department': 'qa', 'name': 'Emp10', 'birthday': {'day': '11', 'year': '1995', 'month': '10'}, 'address': 'Tel-Aviv', 'programs': ['python', 'snake'], 'salary': '24400'}
+2019-05-27 08:53:12,541-serverLog-INFO-add_emp: Emp10
+2019-05-27 08:53:12,542-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,542-serverLog-INFO-result is True
+2019-05-27 08:53:12,547-serverLog-INFO-Delete Emp: Emp3
+2019-05-27 08:53:12,547-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,547-serverLog-INFO-result is True
+2019-05-27 08:53:12,553-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,553-serverLog-INFO-result is True
+2019-05-27 08:53:12,556-serverLog-INFO-Got birthday: 6-10-1967
+2019-05-27 08:53:12,556-serverLog-INFO-Got programs: [ASP, Java, C]
+2019-05-27 08:53:12,556-serverLog-INFO-Parsed programs: ['ASP', 'Java', 'C']
+2019-05-27 08:53:12,556-serverLog-INFO-Parsed employee: {'department': 'management', 'name': 'David', 'birthday': {'day': '6', 'year': '1967', 'month': '10'}, 'address': 'Misgav', 'programs': ['ASP', 'Java', 'C'], 'salary': '11100'}
+2019-05-27 08:53:12,556-serverLog-INFO-add_emp: David
+2019-05-27 08:53:12,556-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,556-serverLog-INFO-result is True
+2019-05-27 08:53:12,559-serverLog-INFO-Got birthday: 6-10-1967
+2019-05-27 08:53:12,559-serverLog-INFO-Got programs: [ASP, Java, C]
+2019-05-27 08:53:12,559-serverLog-INFO-Parsed programs: ['ASP', 'Java', 'C']
+2019-05-27 08:53:12,559-serverLog-INFO-Parsed employee: {'department': 'management', 'name': 'David', 'birthday': {'day': '6', 'year': '1967', 'month': '10'}, 'address': 'Misgav', 'programs': ['ASP', 'Java', 'C'], 'salary': '11100'}
+2019-05-27 08:53:12,559-serverLog-INFO-add_emp: David
+2019-05-27 08:53:12,559-serverLog-INFO-result is Employee exists
+2019-05-27 08:53:12,563-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,563-serverLog-INFO-result is True
+2019-05-27 08:53:12,566-serverLog-INFO-Got birthday: 1-2-1979
+2019-05-27 08:53:12,566-serverLog-INFO-Got programs: [Java, C]
+2019-05-27 08:53:12,566-serverLog-INFO-Parsed programs: ['Java', 'C']
+2019-05-27 08:53:12,566-serverLog-INFO-Parsed employee: {'department': 'dev', 'name': 'Emp1-5000', 'birthday': {'day': '1', 'year': '1979', 'month': '2'}, 'address': 'Tel-Aviv', 'programs': ['Java', 'C'], 'salary': '5000'}
+2019-05-27 08:53:12,566-serverLog-INFO-add_emp: Emp1-5000
+2019-05-27 08:53:12,566-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,566-serverLog-INFO-result is True
+2019-05-27 08:53:12,569-serverLog-INFO-Got birthday: 21-8-1978
+2019-05-27 08:53:12,569-serverLog-INFO-Got programs: [python, snake]
+2019-05-27 08:53:12,569-serverLog-INFO-Parsed programs: ['python', 'snake']
+2019-05-27 08:53:12,569-serverLog-INFO-Parsed employee: {'department': 'management', 'name': 'Emp2-365', 'birthday': {'day': '21', 'year': '1978', 'month': '8'}, 'address': 'Misgav', 'programs': ['python', 'snake'], 'salary': '365'}
+2019-05-27 08:53:12,569-serverLog-INFO-add_emp: Emp2-365
+2019-05-27 08:53:12,570-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,570-serverLog-INFO-result is True
+2019-05-27 08:53:12,572-serverLog-INFO-Got birthday: 21-7-1959
+2019-05-27 08:53:12,572-serverLog-INFO-Got programs: [C]
+2019-05-27 08:53:12,573-serverLog-INFO-Parsed programs: ['C']
+2019-05-27 08:53:12,573-serverLog-INFO-Parsed employee: {'department': 'management', 'name': 'Emp3-10000', 'birthday': {'day': '21', 'year': '1959', 'month': '7'}, 'address': 'Jerusalem', 'programs': ['C'], 'salary': '10000'}
+2019-05-27 08:53:12,573-serverLog-INFO-add_emp: Emp3-10000
+2019-05-27 08:53:12,573-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,573-serverLog-INFO-result is True
+2019-05-27 08:53:12,576-serverLog-INFO-Got birthday: 20-12-1963
+2019-05-27 08:53:12,576-serverLog-INFO-Got programs: [snake, Java, excel, python]
+2019-05-27 08:53:12,576-serverLog-INFO-Parsed programs: ['snake', 'Java', 'excel', 'python']
+2019-05-27 08:53:12,576-serverLog-INFO-Parsed employee: {'department': 'management', 'name': 'Emp4-987', 'birthday': {'day': '20', 'year': '1963', 'month': '12'}, 'address': 'Jerusalem', 'programs': ['snake', 'Java', 'excel', 'python'], 'salary': '987'}
+2019-05-27 08:53:12,576-serverLog-INFO-add_emp: Emp4-987
+2019-05-27 08:53:12,576-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,577-serverLog-INFO-result is True
+2019-05-27 08:53:12,579-serverLog-INFO-Got birthday: 25-10-1997
+2019-05-27 08:53:12,580-serverLog-INFO-Got programs: [snake, ASP, C]
+2019-05-27 08:53:12,580-serverLog-INFO-Parsed programs: ['snake', 'ASP', 'C']
+2019-05-27 08:53:12,580-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'Emp5-8000', 'birthday': {'day': '25', 'year': '1997', 'month': '10'}, 'address': 'Tel-Aviv', 'programs': ['snake', 'ASP', 'C'], 'salary': '8000'}
+2019-05-27 08:53:12,580-serverLog-INFO-add_emp: Emp5-8000
+2019-05-27 08:53:12,580-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,580-serverLog-INFO-result is True
+2019-05-27 08:53:12,583-serverLog-INFO-Got birthday: 21-12-1988
+2019-05-27 08:53:12,583-serverLog-INFO-Got programs: [ASP]
+2019-05-27 08:53:12,583-serverLog-INFO-Parsed programs: ['ASP']
+2019-05-27 08:53:12,583-serverLog-INFO-Parsed employee: {'department': 'management', 'name': 'Emp6-450', 'birthday': {'day': '21', 'year': '1988', 'month': '12'}, 'address': 'Tel-Aviv', 'programs': ['ASP'], 'salary': '450'}
+2019-05-27 08:53:12,583-serverLog-INFO-add_emp: Emp6-450
+2019-05-27 08:53:12,584-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,584-serverLog-INFO-result is True
+2019-05-27 08:53:12,587-serverLog-INFO-Got birthday: 6-4-1977
+2019-05-27 08:53:12,588-serverLog-INFO-Got programs: [ASP, C, snake]
+2019-05-27 08:53:12,588-serverLog-INFO-Parsed programs: ['ASP', 'C', 'snake']
+2019-05-27 08:53:12,588-serverLog-INFO-Parsed employee: {'department': 'qa', 'name': 'Emp7-17', 'birthday': {'day': '6', 'year': '1977', 'month': '4'}, 'address': 'Jerusalem', 'programs': ['ASP', 'C', 'snake'], 'salary': '17'}
+2019-05-27 08:53:12,588-serverLog-INFO-add_emp: Emp7-17
+2019-05-27 08:53:12,588-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,588-serverLog-INFO-result is True
+2019-05-27 08:53:12,597-serverLog-INFO-Got birthday: 10-3-1973
+2019-05-27 08:53:12,597-serverLog-INFO-Got programs: [ASP, python, excel]
+2019-05-27 08:53:12,597-serverLog-INFO-Parsed programs: ['ASP', 'python', 'excel']
+2019-05-27 08:53:12,597-serverLog-INFO-Parsed employee: {'department': 'management', 'name': 'Emp8-35000', 'birthday': {'day': '10', 'year': '1973', 'month': '3'}, 'address': 'Tel-Aviv', 'programs': ['ASP', 'python', 'excel'], 'salary': '35000'}
+2019-05-27 08:53:12,597-serverLog-INFO-add_emp: Emp8-35000
+2019-05-27 08:53:12,598-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,598-serverLog-INFO-result is True
+2019-05-27 08:53:12,601-serverLog-INFO-Got birthday: 29-12-1977
+2019-05-27 08:53:12,601-serverLog-INFO-Got programs: [C]
+2019-05-27 08:53:12,601-serverLog-INFO-Parsed programs: ['C']
+2019-05-27 08:53:12,601-serverLog-INFO-Parsed employee: {'department': 'qa', 'name': 'Emp9-1', 'birthday': {'day': '29', 'year': '1977', 'month': '12'}, 'address': 'Tel-Aviv', 'programs': ['C'], 'salary': '1'}
+2019-05-27 08:53:12,601-serverLog-INFO-add_emp: Emp9-1
+2019-05-27 08:53:12,602-serverLog-INFO-Data Saved
+2019-05-27 08:53:12,602-serverLog-INFO-result is True
+2019-05-27 08:53:12,604-serverLog-INFO-result is {'salaries': [('Emp8-35000', 35000.0), ('Emp3-10000', 10000.0), ('Emp5-8000', 8000.0), ('Emp1-5000', 5000.0), ('Emp4-987', 987.0), ('Emp6-450', 450.0), ('Emp2-365', 365.0), ('Emp7-17', 17.0), ('Emp9-1', 1.0)]}
+2019-05-27 08:53:12,614-serverLog-ERROR-Error: Data not formatted well
+2019-05-27 08:53:25,310-serverLog-INFO-Got birthday: 11-5-1954
+2019-05-27 08:53:25,310-serverLog-INFO-Got programs: [python, snake]
+2019-05-27 08:53:25,311-serverLog-INFO-Parsed programs: ['python', 'snake']
+2019-05-27 08:53:25,311-serverLog-INFO-Parsed employee: {'department': 'management', 'name': 'Dummy_Emp', 'birthday': {'day': '11', 'year': '1954', 'month': '5'}, 'address': 'Tel-Aviv', 'programs': ['python', 'snake'], 'salary': '20400'}
+2019-05-27 08:53:25,311-serverLog-INFO-add_emp: Dummy_Emp
+2019-05-27 08:53:25,311-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,311-serverLog-INFO-result is True
+2019-05-27 08:53:25,317-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,317-serverLog-INFO-result is True
+2019-05-27 08:53:25,323-serverLog-INFO-Got birthday: {'day': '12', 'month': '11', 'year': '1985'}
+2019-05-27 08:53:25,323-serverLog-INFO-Got programs: ['python', 'excel', 'C']
+2019-05-27 08:53:25,324-serverLog-INFO-Parsed programs: ['python', 'excel', 'C']
+2019-05-27 08:53:25,324-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'David', 'birthday': {'day': '12', 'year': '1985', 'month': '11'}, 'address': 'Misgav', 'programs': ['python', 'excel', 'C'], 'salary': '987'}
+2019-05-27 08:53:25,324-serverLog-INFO-Got birthday: {'day': '19', 'month': '12', 'year': '1972'}
+2019-05-27 08:53:25,324-serverLog-INFO-Got programs: ['excel', 'ASP', 'Java', 'python', 'C']
+2019-05-27 08:53:25,324-serverLog-INFO-Parsed programs: ['excel', 'ASP', 'Java', 'python', 'C']
+2019-05-27 08:53:25,324-serverLog-INFO-Parsed employee: {'department': 'qa', 'name': 'Moshe', 'birthday': {'day': '19', 'year': '1972', 'month': '12'}, 'address': 'Misgav', 'programs': ['excel', 'ASP', 'Java', 'python', 'C'], 'salary': '10000'}
+2019-05-27 08:53:25,324-serverLog-INFO-Got birthday: {'day': '24', 'month': '11', 'year': '1975'}
+2019-05-27 08:53:25,324-serverLog-INFO-Got programs: ['Java', 'snake', 'excel']
+2019-05-27 08:53:25,324-serverLog-INFO-Parsed programs: ['Java', 'snake', 'excel']
+2019-05-27 08:53:25,324-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'Elad', 'birthday': {'day': '24', 'year': '1975', 'month': '11'}, 'address': 'Misgav', 'programs': ['Java', 'snake', 'excel'], 'salary': '5000'}
+2019-05-27 08:53:25,324-serverLog-INFO-Got birthday: {'day': '11', 'month': '2', 'year': '1971'}
+2019-05-27 08:53:25,324-serverLog-INFO-Got programs: ['excel', 'Java', 'C']
+2019-05-27 08:53:25,324-serverLog-INFO-Parsed programs: ['excel', 'Java', 'C']
+2019-05-27 08:53:25,324-serverLog-INFO-Parsed employee: {'department': 'management', 'name': 'Jonathan', 'birthday': {'day': '11', 'year': '1971', 'month': '2'}, 'address': 'Tel-Aviv', 'programs': ['excel', 'Java', 'C'], 'salary': '365'}
+2019-05-27 08:53:25,324-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,324-serverLog-INFO-result is True
+2019-05-27 08:53:25,331-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,331-serverLog-INFO-result is True
+2019-05-27 08:53:25,334-serverLog-INFO-Got birthday: 4-11-1971
+2019-05-27 08:53:25,334-serverLog-INFO-Got programs: [python, ASP, excel]
+2019-05-27 08:53:25,334-serverLog-INFO-Parsed programs: ['python', 'ASP', 'excel']
+2019-05-27 08:53:25,334-serverLog-INFO-Parsed employee: {'department': 'management', 'name': 'Emp1', 'birthday': {'day': '4', 'year': '1971', 'month': '11'}, 'address': 'Jerusalem', 'programs': ['python', 'ASP', 'excel'], 'salary': '10700'}
+2019-05-27 08:53:25,334-serverLog-INFO-add_emp: Emp1
+2019-05-27 08:53:25,335-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,335-serverLog-INFO-result is True
+2019-05-27 08:53:25,338-serverLog-INFO-Got birthday: 12-1-1983
+2019-05-27 08:53:25,338-serverLog-INFO-Got programs: [C, ASP]
+2019-05-27 08:53:25,338-serverLog-INFO-Parsed programs: ['C', 'ASP']
+2019-05-27 08:53:25,338-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'Emp2', 'birthday': {'day': '12', 'year': '1983', 'month': '1'}, 'address': 'Misgav', 'programs': ['C', 'ASP'], 'salary': '31000'}
+2019-05-27 08:53:25,338-serverLog-INFO-add_emp: Emp2
+2019-05-27 08:53:25,338-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,338-serverLog-INFO-result is True
+2019-05-27 08:53:25,341-serverLog-INFO-Got birthday: 28-12-1989
+2019-05-27 08:53:25,341-serverLog-INFO-Got programs: [C, python, excel]
+2019-05-27 08:53:25,341-serverLog-INFO-Parsed programs: ['C', 'python', 'excel']
+2019-05-27 08:53:25,341-serverLog-INFO-Parsed employee: {'department': 'qa', 'name': 'Emp3', 'birthday': {'day': '28', 'year': '1989', 'month': '12'}, 'address': 'Tel-Aviv', 'programs': ['C', 'python', 'excel'], 'salary': '30100'}
+2019-05-27 08:53:25,341-serverLog-INFO-add_emp: Emp3
+2019-05-27 08:53:25,341-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,342-serverLog-INFO-result is True
+2019-05-27 08:53:25,344-serverLog-INFO-Got birthday: 15-2-1973
+2019-05-27 08:53:25,344-serverLog-INFO-Got programs: [ASP]
+2019-05-27 08:53:25,344-serverLog-INFO-Parsed programs: ['ASP']
+2019-05-27 08:53:25,344-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'Emp4', 'birthday': {'day': '15', 'year': '1973', 'month': '2'}, 'address': 'Tel-Aviv', 'programs': ['ASP'], 'salary': '23000'}
+2019-05-27 08:53:25,344-serverLog-INFO-add_emp: Emp4
+2019-05-27 08:53:25,345-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,345-serverLog-INFO-result is True
+2019-05-27 08:53:25,348-serverLog-INFO-Got birthday: 13-12-1991
+2019-05-27 08:53:25,348-serverLog-INFO-Got programs: [python]
+2019-05-27 08:53:25,348-serverLog-INFO-Parsed programs: ['python']
+2019-05-27 08:53:25,348-serverLog-INFO-Parsed employee: {'department': 'qa', 'name': 'Emp5', 'birthday': {'day': '13', 'year': '1991', 'month': '12'}, 'address': 'Jerusalem', 'programs': ['python'], 'salary': '32400'}
+2019-05-27 08:53:25,348-serverLog-INFO-add_emp: Emp5
+2019-05-27 08:53:25,348-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,348-serverLog-INFO-result is True
+2019-05-27 08:53:25,351-serverLog-INFO-Got birthday: 19-9-1978
+2019-05-27 08:53:25,351-serverLog-INFO-Got programs: [Java]
+2019-05-27 08:53:25,351-serverLog-INFO-Parsed programs: ['Java']
+2019-05-27 08:53:25,351-serverLog-INFO-Parsed employee: {'department': 'dev', 'name': 'Emp6', 'birthday': {'day': '19', 'year': '1978', 'month': '9'}, 'address': 'Misgav', 'programs': ['Java'], 'salary': '12700'}
+2019-05-27 08:53:25,352-serverLog-INFO-add_emp: Emp6
+2019-05-27 08:53:25,352-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,352-serverLog-INFO-result is True
+2019-05-27 08:53:25,355-serverLog-INFO-Got birthday: 19-2-1988
+2019-05-27 08:53:25,355-serverLog-INFO-Got programs: [python, snake, C, excel]
+2019-05-27 08:53:25,355-serverLog-INFO-Parsed programs: ['python', 'snake', 'C', 'excel']
+2019-05-27 08:53:25,355-serverLog-INFO-Parsed employee: {'department': 'dev', 'name': 'Emp7', 'birthday': {'day': '19', 'year': '1988', 'month': '2'}, 'address': 'Tel-Aviv', 'programs': ['python', 'snake', 'C', 'excel'], 'salary': '10000'}
+2019-05-27 08:53:25,355-serverLog-INFO-add_emp: Emp7
+2019-05-27 08:53:25,356-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,356-serverLog-INFO-result is True
+2019-05-27 08:53:25,359-serverLog-INFO-Got birthday: 5-4-1971
+2019-05-27 08:53:25,359-serverLog-INFO-Got programs: [C]
+2019-05-27 08:53:25,359-serverLog-INFO-Parsed programs: ['C']
+2019-05-27 08:53:25,359-serverLog-INFO-Parsed employee: {'department': 'management', 'name': 'Emp8', 'birthday': {'day': '5', 'year': '1971', 'month': '4'}, 'address': 'Tel-Aviv', 'programs': ['C'], 'salary': '25800'}
+2019-05-27 08:53:25,359-serverLog-INFO-add_emp: Emp8
+2019-05-27 08:53:25,359-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,359-serverLog-INFO-result is True
+2019-05-27 08:53:25,362-serverLog-INFO-Got birthday: 17-8-1997
+2019-05-27 08:53:25,362-serverLog-INFO-Got programs: [Java, C]
+2019-05-27 08:53:25,362-serverLog-INFO-Parsed programs: ['Java', 'C']
+2019-05-27 08:53:25,362-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'Emp9', 'birthday': {'day': '17', 'year': '1997', 'month': '8'}, 'address': 'Jerusalem', 'programs': ['Java', 'C'], 'salary': '15600'}
+2019-05-27 08:53:25,362-serverLog-INFO-add_emp: Emp9
+2019-05-27 08:53:25,362-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,363-serverLog-INFO-result is True
+2019-05-27 08:53:25,365-serverLog-INFO-Got birthday: 27-12-1966
+2019-05-27 08:53:25,365-serverLog-INFO-Got programs: [C, excel]
+2019-05-27 08:53:25,365-serverLog-INFO-Parsed programs: ['C', 'excel']
+2019-05-27 08:53:25,365-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'Emp10', 'birthday': {'day': '27', 'year': '1966', 'month': '12'}, 'address': 'Jerusalem', 'programs': ['C', 'excel'], 'salary': '22200'}
+2019-05-27 08:53:25,365-serverLog-INFO-add_emp: Emp10
+2019-05-27 08:53:25,366-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,366-serverLog-INFO-result is True
+2019-05-27 08:53:25,369-serverLog-INFO-Got birthday: 11-7-1970
+2019-05-27 08:53:25,369-serverLog-INFO-Got programs: [C]
+2019-05-27 08:53:25,369-serverLog-INFO-Parsed programs: ['C']
+2019-05-27 08:53:25,369-serverLog-INFO-Parsed employee: {'department': 'management', 'name': 'Wrong-Emp', 'birthday': {'day': '11', 'year': '1970', 'month': '7'}, 'address': 'Tel-Aviv', 'programs': ['C'], 'salary': '15500'}
+2019-05-27 08:53:25,369-serverLog-INFO-add_emp: Wrong-Emp
+2019-05-27 08:53:25,369-serverLog-INFO-result is Employee limit reached. Cannot add another one.
+2019-05-27 08:53:25,373-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,373-serverLog-INFO-result is True
+2019-05-27 08:53:25,375-serverLog-INFO-Got birthday: 16-1-1969
+2019-05-27 08:53:25,375-serverLog-INFO-Got programs: [excel, snake, ASP]
+2019-05-27 08:53:25,375-serverLog-INFO-Parsed programs: ['excel', 'snake', 'ASP']
+2019-05-27 08:53:25,375-serverLog-INFO-Parsed employee: {'department': 'dev', 'name': 'HighSal', 'birthday': {'day': '16', 'year': '1969', 'month': '1'}, 'address': 'Jerusalem', 'programs': ['excel', 'snake', 'ASP'], 'salary': '35500'}
+2019-05-27 08:53:25,376-serverLog-INFO-add_emp: HighSal
+2019-05-27 08:53:25,376-serverLog-INFO-result is Employee's salary is too high. Cannot add this employee.
+2019-05-27 08:53:25,378-serverLog-INFO-Got birthday: 16-4-1981
+2019-05-27 08:53:25,379-serverLog-INFO-Got programs: [ASP, C, python, excel, snake]
+2019-05-27 08:53:25,379-serverLog-INFO-Parsed programs: ['ASP', 'C', 'python', 'excel', 'snake']
+2019-05-27 08:53:25,379-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'NormalSal', 'birthday': {'day': '16', 'year': '1981', 'month': '4'}, 'address': 'Misgav', 'programs': ['ASP', 'C', 'python', 'excel', 'snake'], 'salary': '15500'}
+2019-05-27 08:53:25,379-serverLog-INFO-add_emp: NormalSal
+2019-05-27 08:53:25,379-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,379-serverLog-INFO-result is True
+2019-05-27 08:53:25,382-serverLog-INFO-Got birthday: 10-4-1966
+2019-05-27 08:53:25,382-serverLog-INFO-Got programs: [python, excel]
+2019-05-27 08:53:25,382-serverLog-INFO-Parsed programs: ['python', 'excel']
+2019-05-27 08:53:25,382-serverLog-INFO-Parsed employee: {'department': 'dev', 'name': 'Other_Emp', 'birthday': {'day': '10', 'year': '1966', 'month': '4'}, 'address': 'Jerusalem', 'programs': ['python', 'excel'], 'salary': '1500'}
+2019-05-27 08:53:25,382-serverLog-INFO-add_emp: Other_Emp
+2019-05-27 08:53:25,382-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,382-serverLog-INFO-result is True
+2019-05-27 08:53:25,385-serverLog-INFO-result is Salary too high
+2019-05-27 08:53:25,387-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,387-serverLog-INFO-result is Employee NormalSal's salary would exceed. Therefore salary will not update. (Other employees' salary was updated.) 
+2019-05-27 08:53:25,391-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,391-serverLog-INFO-result is True
+2019-05-27 08:53:25,394-serverLog-INFO-Got birthday: 01-01-1953
+2019-05-27 08:53:25,394-serverLog-INFO-Got programs: [excel, python]
+2019-05-27 08:53:25,394-serverLog-INFO-Parsed programs: ['excel', 'python']
+2019-05-27 08:53:25,394-serverLog-INFO-Parsed employee: {'department': 'dev', 'name': 'OldAge', 'birthday': {'day': '01', 'year': '1953', 'month': '01'}, 'address': 'Jerusalem', 'programs': ['excel', 'python'], 'salary': '11000'}
+2019-05-27 08:53:25,394-serverLog-INFO-add_emp: OldAge
+2019-05-27 08:53:25,394-serverLog-INFO-result is Note employee's age. Consider retiring this employee.
+2019-05-27 08:53:25,398-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,398-serverLog-INFO-result is True
+2019-05-27 08:53:25,401-serverLog-INFO-Got birthday: 01-01-2000
+2019-05-27 08:53:25,401-serverLog-INFO-Got programs: [Java]
+2019-05-27 08:53:25,401-serverLog-INFO-Parsed programs: ['Java']
+2019-05-27 08:53:25,401-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'Emp_Jan', 'birthday': {'day': '01', 'year': '2000', 'month': '01'}, 'address': 'Misgav', 'programs': ['Java'], 'salary': '6300'}
+2019-05-27 08:53:25,401-serverLog-INFO-add_emp: Emp_Jan
+2019-05-27 08:53:25,401-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,401-serverLog-INFO-result is True
+2019-05-27 08:53:25,404-serverLog-INFO-Got birthday: 01-02-2000
+2019-05-27 08:53:25,404-serverLog-INFO-Got programs: [snake]
+2019-05-27 08:53:25,404-serverLog-INFO-Parsed programs: ['snake']
+2019-05-27 08:53:25,404-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'Emp_Feb', 'birthday': {'day': '01', 'year': '2000', 'month': '02'}, 'address': 'Tel-Aviv', 'programs': ['snake'], 'salary': '19300'}
+2019-05-27 08:53:25,404-serverLog-INFO-add_emp: Emp_Feb
+2019-05-27 08:53:25,404-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,404-serverLog-INFO-result is True
+2019-05-27 08:53:25,407-serverLog-INFO-Got birthday: 01-03-2000
+2019-05-27 08:53:25,407-serverLog-INFO-Got programs: [ASP, python, C]
+2019-05-27 08:53:25,407-serverLog-INFO-Parsed programs: ['ASP', 'python', 'C']
+2019-05-27 08:53:25,407-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'Emp_Mar', 'birthday': {'day': '01', 'year': '2000', 'month': '03'}, 'address': 'Jerusalem', 'programs': ['ASP', 'python', 'C'], 'salary': '30900'}
+2019-05-27 08:53:25,407-serverLog-INFO-add_emp: Emp_Mar
+2019-05-27 08:53:25,407-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,407-serverLog-INFO-result is True
+2019-05-27 08:53:25,410-serverLog-INFO-Got birthday: 01-04-2000
+2019-05-27 08:53:25,410-serverLog-INFO-Got programs: [python, ASP]
+2019-05-27 08:53:25,410-serverLog-INFO-Parsed programs: ['python', 'ASP']
+2019-05-27 08:53:25,410-serverLog-INFO-Parsed employee: {'department': 'qa', 'name': 'Emp_Apr', 'birthday': {'day': '01', 'year': '2000', 'month': '04'}, 'address': 'Jerusalem', 'programs': ['python', 'ASP'], 'salary': '28300'}
+2019-05-27 08:53:25,410-serverLog-INFO-add_emp: Emp_Apr
+2019-05-27 08:53:25,410-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,410-serverLog-INFO-result is True
+2019-05-27 08:53:25,413-serverLog-INFO-Got birthday: 01-05-2000
+2019-05-27 08:53:25,413-serverLog-INFO-Got programs: [python, ASP, snake]
+2019-05-27 08:53:25,413-serverLog-INFO-Parsed programs: ['python', 'ASP', 'snake']
+2019-05-27 08:53:25,413-serverLog-INFO-Parsed employee: {'department': 'management', 'name': 'Emp_May', 'birthday': {'day': '01', 'year': '2000', 'month': '05'}, 'address': 'Jerusalem', 'programs': ['python', 'ASP', 'snake'], 'salary': '34000'}
+2019-05-27 08:53:25,413-serverLog-INFO-add_emp: Emp_May
+2019-05-27 08:53:25,413-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,413-serverLog-INFO-result is True
+2019-05-27 08:53:25,416-serverLog-INFO-Got birthday: 01-06-2000
+2019-05-27 08:53:25,416-serverLog-INFO-Got programs: [Java, snake, ASP]
+2019-05-27 08:53:25,416-serverLog-INFO-Parsed programs: ['Java', 'snake', 'ASP']
+2019-05-27 08:53:25,416-serverLog-INFO-Parsed employee: {'department': 'qa', 'name': 'Emp_Jun', 'birthday': {'day': '01', 'year': '2000', 'month': '06'}, 'address': 'Misgav', 'programs': ['Java', 'snake', 'ASP'], 'salary': '23200'}
+2019-05-27 08:53:25,416-serverLog-INFO-add_emp: Emp_Jun
+2019-05-27 08:53:25,416-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,416-serverLog-INFO-result is True
+2019-05-27 08:53:25,419-serverLog-INFO-Got birthday: 01-07-2000
+2019-05-27 08:53:25,419-serverLog-INFO-Got programs: [python, ASP]
+2019-05-27 08:53:25,419-serverLog-INFO-Parsed programs: ['python', 'ASP']
+2019-05-27 08:53:25,419-serverLog-INFO-Parsed employee: {'department': 'management', 'name': 'Emp_Jul', 'birthday': {'day': '01', 'year': '2000', 'month': '07'}, 'address': 'Misgav', 'programs': ['python', 'ASP'], 'salary': '5700'}
+2019-05-27 08:53:25,419-serverLog-INFO-add_emp: Emp_Jul
+2019-05-27 08:53:25,419-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,419-serverLog-INFO-result is True
+2019-05-27 08:53:25,422-serverLog-INFO-Got birthday: 01-08-2000
+2019-05-27 08:53:25,422-serverLog-INFO-Got programs: [Java, ASP, snake]
+2019-05-27 08:53:25,422-serverLog-INFO-Parsed programs: ['Java', 'ASP', 'snake']
+2019-05-27 08:53:25,422-serverLog-INFO-Parsed employee: {'department': 'management', 'name': 'Emp_Aug', 'birthday': {'day': '01', 'year': '2000', 'month': '08'}, 'address': 'Jerusalem', 'programs': ['Java', 'ASP', 'snake'], 'salary': '24000'}
+2019-05-27 08:53:25,422-serverLog-INFO-add_emp: Emp_Aug
+2019-05-27 08:53:25,422-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,423-serverLog-INFO-result is True
+2019-05-27 08:53:25,425-serverLog-INFO-Got birthday: 01-09-2000
+2019-05-27 08:53:25,425-serverLog-INFO-Got programs: [Java, python, C]
+2019-05-27 08:53:25,425-serverLog-INFO-Parsed programs: ['Java', 'python', 'C']
+2019-05-27 08:53:25,425-serverLog-INFO-Parsed employee: {'department': 'management', 'name': 'Emp_Sep', 'birthday': {'day': '01', 'year': '2000', 'month': '09'}, 'address': 'Jerusalem', 'programs': ['Java', 'python', 'C'], 'salary': '27800'}
+2019-05-27 08:53:25,425-serverLog-INFO-add_emp: Emp_Sep
+2019-05-27 08:53:25,425-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,425-serverLog-INFO-result is True
+2019-05-27 08:53:25,428-serverLog-INFO-Got birthday: 01-01-2000
+2019-05-27 08:53:25,428-serverLog-INFO-Got programs: [Java, ASP, excel, python]
+2019-05-27 08:53:25,428-serverLog-INFO-Parsed programs: ['Java', 'ASP', 'excel', 'python']
+2019-05-27 08:53:25,428-serverLog-INFO-Parsed employee: {'department': 'management', 'name': 'Emp2_Jan', 'birthday': {'day': '01', 'year': '2000', 'month': '01'}, 'address': 'Misgav', 'programs': ['Java', 'ASP', 'excel', 'python'], 'salary': '12600'}
+2019-05-27 08:53:25,428-serverLog-INFO-add_emp: Emp2_Jan
+2019-05-27 08:53:25,428-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,428-serverLog-INFO-result is True
+2019-05-27 08:53:25,431-serverLog-INFO-result is ['Emp_Jan', 'Emp2_Jan']
+2019-05-27 08:53:25,433-serverLog-INFO-result is ['Emp_Feb']
+2019-05-27 08:53:25,435-serverLog-INFO-result is ['Emp_Mar']
+2019-05-27 08:53:25,438-serverLog-INFO-result is ['Emp_Apr']
+2019-05-27 08:53:25,440-serverLog-INFO-result is ['Emp_May']
+2019-05-27 08:53:25,443-serverLog-INFO-result is ['Emp_Jun']
+2019-05-27 08:53:25,445-serverLog-INFO-result is ['Emp_Jul']
+2019-05-27 08:53:25,447-serverLog-INFO-result is ['Emp_Aug']
+2019-05-27 08:53:25,450-serverLog-INFO-result is ['Emp_Sep']
+2019-05-27 08:53:25,454-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,454-serverLog-INFO-result is True
+2019-05-27 08:53:25,457-serverLog-INFO-Got birthday: 3-11-1986
+2019-05-27 08:53:25,457-serverLog-INFO-Got programs: [C, snake, ASP, Java]
+2019-05-27 08:53:25,457-serverLog-INFO-Parsed programs: ['C', 'snake', 'ASP', 'Java']
+2019-05-27 08:53:25,457-serverLog-INFO-Parsed employee: {'department': 'qa', 'name': 'Emp1', 'birthday': {'day': '3', 'year': '1986', 'month': '11'}, 'address': 'Misgav', 'programs': ['C', 'snake', 'ASP', 'Java'], 'salary': '18100'}
+2019-05-27 08:53:25,457-serverLog-INFO-add_emp: Emp1
+2019-05-27 08:53:25,457-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,457-serverLog-INFO-result is True
+2019-05-27 08:53:25,460-serverLog-INFO-Got birthday: 27-12-1960
+2019-05-27 08:53:25,460-serverLog-INFO-Got programs: [excel]
+2019-05-27 08:53:25,460-serverLog-INFO-Parsed programs: ['excel']
+2019-05-27 08:53:25,460-serverLog-INFO-Parsed employee: {'department': 'qa', 'name': 'Emp2', 'birthday': {'day': '27', 'year': '1960', 'month': '12'}, 'address': 'Misgav', 'programs': ['excel'], 'salary': '17600'}
+2019-05-27 08:53:25,460-serverLog-INFO-add_emp: Emp2
+2019-05-27 08:53:25,461-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,461-serverLog-INFO-result is True
+2019-05-27 08:53:25,463-serverLog-INFO-Got birthday: 4-5-1998
+2019-05-27 08:53:25,463-serverLog-INFO-Got programs: [ASP, Java, excel]
+2019-05-27 08:53:25,463-serverLog-INFO-Parsed programs: ['ASP', 'Java', 'excel']
+2019-05-27 08:53:25,463-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'Emp3', 'birthday': {'day': '4', 'year': '1998', 'month': '5'}, 'address': 'Tel-Aviv', 'programs': ['ASP', 'Java', 'excel'], 'salary': '28100'}
+2019-05-27 08:53:25,463-serverLog-INFO-add_emp: Emp3
+2019-05-27 08:53:25,464-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,464-serverLog-INFO-result is True
+2019-05-27 08:53:25,466-serverLog-INFO-Got birthday: 9-5-1986
+2019-05-27 08:53:25,466-serverLog-INFO-Got programs: [Java, python, snake]
+2019-05-27 08:53:25,466-serverLog-INFO-Parsed programs: ['Java', 'python', 'snake']
+2019-05-27 08:53:25,466-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'Emp4', 'birthday': {'day': '9', 'year': '1986', 'month': '5'}, 'address': 'Tel-Aviv', 'programs': ['Java', 'python', 'snake'], 'salary': '31800'}
+2019-05-27 08:53:25,466-serverLog-INFO-add_emp: Emp4
+2019-05-27 08:53:25,467-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,467-serverLog-INFO-result is True
+2019-05-27 08:53:25,469-serverLog-INFO-Got birthday: 24-6-1961
+2019-05-27 08:53:25,469-serverLog-INFO-Got programs: [Java, snake, excel, ASP]
+2019-05-27 08:53:25,469-serverLog-INFO-Parsed programs: ['Java', 'snake', 'excel', 'ASP']
+2019-05-27 08:53:25,469-serverLog-INFO-Parsed employee: {'department': 'management', 'name': 'Emp5', 'birthday': {'day': '24', 'year': '1961', 'month': '6'}, 'address': 'Tel-Aviv', 'programs': ['Java', 'snake', 'excel', 'ASP'], 'salary': '9200'}
+2019-05-27 08:53:25,469-serverLog-INFO-add_emp: Emp5
+2019-05-27 08:53:25,469-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,470-serverLog-INFO-result is True
+2019-05-27 08:53:25,472-serverLog-INFO-Got birthday: 14-6-1973
+2019-05-27 08:53:25,472-serverLog-INFO-Got programs: [excel, Java, C]
+2019-05-27 08:53:25,472-serverLog-INFO-Parsed programs: ['excel', 'Java', 'C']
+2019-05-27 08:53:25,472-serverLog-INFO-Parsed employee: {'department': 'management', 'name': 'Emp6', 'birthday': {'day': '14', 'year': '1973', 'month': '6'}, 'address': 'Misgav', 'programs': ['excel', 'Java', 'C'], 'salary': '32500'}
+2019-05-27 08:53:25,472-serverLog-INFO-add_emp: Emp6
+2019-05-27 08:53:25,472-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,473-serverLog-INFO-result is True
+2019-05-27 08:53:25,475-serverLog-INFO-Got birthday: 5-7-1956
+2019-05-27 08:53:25,475-serverLog-INFO-Got programs: [snake, Java]
+2019-05-27 08:53:25,475-serverLog-INFO-Parsed programs: ['snake', 'Java']
+2019-05-27 08:53:25,475-serverLog-INFO-Parsed employee: {'department': 'qa', 'name': 'Emp7', 'birthday': {'day': '5', 'year': '1956', 'month': '7'}, 'address': 'Jerusalem', 'programs': ['snake', 'Java'], 'salary': '22600'}
+2019-05-27 08:53:25,475-serverLog-INFO-add_emp: Emp7
+2019-05-27 08:53:25,475-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,476-serverLog-INFO-result is True
+2019-05-27 08:53:25,478-serverLog-INFO-Got birthday: 9-8-1992
+2019-05-27 08:53:25,478-serverLog-INFO-Got programs: [snake]
+2019-05-27 08:53:25,478-serverLog-INFO-Parsed programs: ['snake']
+2019-05-27 08:53:25,478-serverLog-INFO-Parsed employee: {'department': 'qa', 'name': 'Emp8', 'birthday': {'day': '9', 'year': '1992', 'month': '8'}, 'address': 'Misgav', 'programs': ['snake'], 'salary': '8100'}
+2019-05-27 08:53:25,478-serverLog-INFO-add_emp: Emp8
+2019-05-27 08:53:25,478-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,479-serverLog-INFO-result is True
+2019-05-27 08:53:25,481-serverLog-INFO-Got birthday: 17-1-1994
+2019-05-27 08:53:25,481-serverLog-INFO-Got programs: [snake, C]
+2019-05-27 08:53:25,481-serverLog-INFO-Parsed programs: ['snake', 'C']
+2019-05-27 08:53:25,481-serverLog-INFO-Parsed employee: {'department': 'management', 'name': 'Emp9', 'birthday': {'day': '17', 'year': '1994', 'month': '1'}, 'address': 'Misgav', 'programs': ['snake', 'C'], 'salary': '7900'}
+2019-05-27 08:53:25,481-serverLog-INFO-add_emp: Emp9
+2019-05-27 08:53:25,481-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,482-serverLog-INFO-result is True
+2019-05-27 08:53:25,484-serverLog-INFO-Got birthday: 3-1-1979
+2019-05-27 08:53:25,484-serverLog-INFO-Got programs: [Java, excel, python]
+2019-05-27 08:53:25,484-serverLog-INFO-Parsed programs: ['Java', 'excel', 'python']
+2019-05-27 08:53:25,484-serverLog-INFO-Parsed employee: {'department': 'management', 'name': 'Emp10', 'birthday': {'day': '3', 'year': '1979', 'month': '1'}, 'address': 'Jerusalem', 'programs': ['Java', 'excel', 'python'], 'salary': '14100'}
+2019-05-27 08:53:25,484-serverLog-INFO-add_emp: Emp10
+2019-05-27 08:53:25,484-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,485-serverLog-INFO-result is True
+2019-05-27 08:53:25,489-serverLog-INFO-Delete Emp: Emp3
+2019-05-27 08:53:25,489-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,489-serverLog-INFO-result is True
+2019-05-27 08:53:25,495-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,495-serverLog-INFO-result is True
+2019-05-27 08:53:25,498-serverLog-INFO-Got birthday: 17-4-1971
+2019-05-27 08:53:25,498-serverLog-INFO-Got programs: [snake, ASP, python, excel]
+2019-05-27 08:53:25,498-serverLog-INFO-Parsed programs: ['snake', 'ASP', 'python', 'excel']
+2019-05-27 08:53:25,498-serverLog-INFO-Parsed employee: {'department': 'dev', 'name': 'David', 'birthday': {'day': '17', 'year': '1971', 'month': '4'}, 'address': 'Jerusalem', 'programs': ['snake', 'ASP', 'python', 'excel'], 'salary': '26900'}
+2019-05-27 08:53:25,498-serverLog-INFO-add_emp: David
+2019-05-27 08:53:25,498-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,498-serverLog-INFO-result is True
+2019-05-27 08:53:25,501-serverLog-INFO-Got birthday: 17-4-1971
+2019-05-27 08:53:25,501-serverLog-INFO-Got programs: [snake, ASP, python, excel]
+2019-05-27 08:53:25,501-serverLog-INFO-Parsed programs: ['snake', 'ASP', 'python', 'excel']
+2019-05-27 08:53:25,501-serverLog-INFO-Parsed employee: {'department': 'dev', 'name': 'David', 'birthday': {'day': '17', 'year': '1971', 'month': '4'}, 'address': 'Jerusalem', 'programs': ['snake', 'ASP', 'python', 'excel'], 'salary': '26900'}
+2019-05-27 08:53:25,501-serverLog-INFO-add_emp: David
+2019-05-27 08:53:25,501-serverLog-INFO-result is Employee exists
+2019-05-27 08:53:25,505-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,505-serverLog-INFO-result is True
+2019-05-27 08:53:25,508-serverLog-INFO-Got birthday: 28-3-1983
+2019-05-27 08:53:25,508-serverLog-INFO-Got programs: [python, C]
+2019-05-27 08:53:25,508-serverLog-INFO-Parsed programs: ['python', 'C']
+2019-05-27 08:53:25,508-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'Emp1-5000', 'birthday': {'day': '28', 'year': '1983', 'month': '3'}, 'address': 'Tel-Aviv', 'programs': ['python', 'C'], 'salary': '5000'}
+2019-05-27 08:53:25,508-serverLog-INFO-add_emp: Emp1-5000
+2019-05-27 08:53:25,508-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,508-serverLog-INFO-result is True
+2019-05-27 08:53:25,512-serverLog-INFO-Got birthday: 8-2-1974
+2019-05-27 08:53:25,512-serverLog-INFO-Got programs: [C, ASP, excel]
+2019-05-27 08:53:25,512-serverLog-INFO-Parsed programs: ['C', 'ASP', 'excel']
+2019-05-27 08:53:25,512-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'Emp2-365', 'birthday': {'day': '8', 'year': '1974', 'month': '2'}, 'address': 'Jerusalem', 'programs': ['C', 'ASP', 'excel'], 'salary': '365'}
+2019-05-27 08:53:25,512-serverLog-INFO-add_emp: Emp2-365
+2019-05-27 08:53:25,512-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,512-serverLog-INFO-result is True
+2019-05-27 08:53:25,517-serverLog-INFO-Got birthday: 13-7-1985
+2019-05-27 08:53:25,517-serverLog-INFO-Got programs: [Java, python, excel]
+2019-05-27 08:53:25,518-serverLog-INFO-Parsed programs: ['Java', 'python', 'excel']
+2019-05-27 08:53:25,518-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'Emp3-10000', 'birthday': {'day': '13', 'year': '1985', 'month': '7'}, 'address': 'Tel-Aviv', 'programs': ['Java', 'python', 'excel'], 'salary': '10000'}
+2019-05-27 08:53:25,518-serverLog-INFO-add_emp: Emp3-10000
+2019-05-27 08:53:25,518-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,518-serverLog-INFO-result is True
+2019-05-27 08:53:25,521-serverLog-INFO-Got birthday: 13-6-1967
+2019-05-27 08:53:25,521-serverLog-INFO-Got programs: [Java]
+2019-05-27 08:53:25,521-serverLog-INFO-Parsed programs: ['Java']
+2019-05-27 08:53:25,521-serverLog-INFO-Parsed employee: {'department': 'qa', 'name': 'Emp4-987', 'birthday': {'day': '13', 'year': '1967', 'month': '6'}, 'address': 'Misgav', 'programs': ['Java'], 'salary': '987'}
+2019-05-27 08:53:25,521-serverLog-INFO-add_emp: Emp4-987
+2019-05-27 08:53:25,522-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,522-serverLog-INFO-result is True
+2019-05-27 08:53:25,525-serverLog-INFO-Got birthday: 14-1-1960
+2019-05-27 08:53:25,525-serverLog-INFO-Got programs: [excel]
+2019-05-27 08:53:25,525-serverLog-INFO-Parsed programs: ['excel']
+2019-05-27 08:53:25,525-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'Emp5-8000', 'birthday': {'day': '14', 'year': '1960', 'month': '1'}, 'address': 'Misgav', 'programs': ['excel'], 'salary': '8000'}
+2019-05-27 08:53:25,525-serverLog-INFO-add_emp: Emp5-8000
+2019-05-27 08:53:25,525-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,525-serverLog-INFO-result is True
+2019-05-27 08:53:25,528-serverLog-INFO-Got birthday: 17-11-1980
+2019-05-27 08:53:25,529-serverLog-INFO-Got programs: [ASP, python]
+2019-05-27 08:53:25,529-serverLog-INFO-Parsed programs: ['ASP', 'python']
+2019-05-27 08:53:25,529-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'Emp6-450', 'birthday': {'day': '17', 'year': '1980', 'month': '11'}, 'address': 'Jerusalem', 'programs': ['ASP', 'python'], 'salary': '450'}
+2019-05-27 08:53:25,529-serverLog-INFO-add_emp: Emp6-450
+2019-05-27 08:53:25,529-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,529-serverLog-INFO-result is True
+2019-05-27 08:53:25,532-serverLog-INFO-Got birthday: 11-1-1981
+2019-05-27 08:53:25,533-serverLog-INFO-Got programs: [snake, C, ASP, python]
+2019-05-27 08:53:25,533-serverLog-INFO-Parsed programs: ['snake', 'C', 'ASP', 'python']
+2019-05-27 08:53:25,533-serverLog-INFO-Parsed employee: {'department': 'dev', 'name': 'Emp7-17', 'birthday': {'day': '11', 'year': '1981', 'month': '1'}, 'address': 'Tel-Aviv', 'programs': ['snake', 'C', 'ASP', 'python'], 'salary': '17'}
+2019-05-27 08:53:25,533-serverLog-INFO-add_emp: Emp7-17
+2019-05-27 08:53:25,533-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,533-serverLog-INFO-result is True
+2019-05-27 08:53:25,537-serverLog-INFO-Got birthday: 8-5-1964
+2019-05-27 08:53:25,537-serverLog-INFO-Got programs: [Java]
+2019-05-27 08:53:25,537-serverLog-INFO-Parsed programs: ['Java']
+2019-05-27 08:53:25,537-serverLog-INFO-Parsed employee: {'department': 'marketing', 'name': 'Emp8-35000', 'birthday': {'day': '8', 'year': '1964', 'month': '5'}, 'address': 'Tel-Aviv', 'programs': ['Java'], 'salary': '35000'}
+2019-05-27 08:53:25,537-serverLog-INFO-add_emp: Emp8-35000
+2019-05-27 08:53:25,537-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,537-serverLog-INFO-result is True
+2019-05-27 08:53:25,542-serverLog-INFO-Got birthday: 17-7-1972
+2019-05-27 08:53:25,542-serverLog-INFO-Got programs: [python]
+2019-05-27 08:53:25,542-serverLog-INFO-Parsed programs: ['python']
+2019-05-27 08:53:25,542-serverLog-INFO-Parsed employee: {'department': 'qa', 'name': 'Emp9-1', 'birthday': {'day': '17', 'year': '1972', 'month': '7'}, 'address': 'Misgav', 'programs': ['python'], 'salary': '1'}
+2019-05-27 08:53:25,542-serverLog-INFO-add_emp: Emp9-1
+2019-05-27 08:53:25,542-serverLog-INFO-Data Saved
+2019-05-27 08:53:25,542-serverLog-INFO-result is True
+2019-05-27 08:53:25,545-serverLog-INFO-result is {'salaries': [('Emp8-35000', 35000.0), ('Emp3-10000', 10000.0), ('Emp5-8000', 8000.0), ('Emp1-5000', 5000.0), ('Emp4-987', 987.0), ('Emp6-450', 450.0), ('Emp2-365', 365.0), ('Emp7-17', 17.0), ('Emp9-1', 1.0)]}
+2019-05-27 08:53:25,553-serverLog-ERROR-Error: Data not formatted well
+2019-05-27 09:06:26,843-serverLog-INFO-Got birthday: 29-4-1974
+2019-05-27 09:06:26,843-serverLog-INFO-Got programs: [python]
+2019-05-27 09:06:26,843-serverLog-INFO-Parsed programs: ['python']
+2019-05-27 09:06:26,843-serverLog-INFO-Parsed employee: {'programs': ['python'], 'name': 'Dummy_Emp', 'address': 'Misgav', 'birthday': {'month': '4', 'year': '1974', 'day': '29'}, 'salary': '33300', 'department': 'dev'}
+2019-05-27 09:06:26,843-serverLog-INFO-add_emp: Dummy_Emp
+2019-05-27 09:06:26,848-serverLog-INFO-Data Saved
+2019-05-27 09:06:26,848-serverLog-INFO-result is True
+2019-05-27 09:07:01,394-serverLog-INFO-Data Saved
+2019-05-27 09:07:01,394-serverLog-INFO-result is True
+2019-05-27 09:07:06,704-serverLog-ERROR-Error: Data not formatted well
+2019-05-27 09:07:10,552-serverLog-INFO-Got birthday: 19-9-1960
+2019-05-27 09:07:10,552-serverLog-INFO-Got programs: [python, Java, C]
+2019-05-27 09:07:10,552-serverLog-INFO-Parsed programs: ['python', 'Java', 'C']
+2019-05-27 09:07:10,552-serverLog-INFO-Parsed employee: {'address': 'Tel-Aviv', 'salary': '34000', 'birthday': {'month': '9', 'year': '1960', 'day': '19'}, 'programs': ['python', 'Java', 'C'], 'department': 'qa', 'name': 'Dummy_Emp'}
+2019-05-27 09:07:10,552-serverLog-INFO-add_emp: Dummy_Emp
+2019-05-27 09:07:10,553-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,553-serverLog-INFO-result is True
+2019-05-27 09:07:10,561-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,561-serverLog-INFO-result is True
+2019-05-27 09:07:10,570-serverLog-INFO-Got birthday: {'year': '1971', 'month': '2', 'day': '11'}
+2019-05-27 09:07:10,571-serverLog-INFO-Got programs: ['excel', 'Java', 'C']
+2019-05-27 09:07:10,571-serverLog-INFO-Parsed programs: ['excel', 'Java', 'C']
+2019-05-27 09:07:10,571-serverLog-INFO-Parsed employee: {'address': 'Tel-Aviv', 'salary': '365', 'birthday': {'month': '2', 'year': '1971', 'day': '11'}, 'programs': ['excel', 'Java', 'C'], 'department': 'management', 'name': 'Jonathan'}
+2019-05-27 09:07:10,571-serverLog-INFO-Got birthday: {'year': '1972', 'month': '12', 'day': '19'}
+2019-05-27 09:07:10,571-serverLog-INFO-Got programs: ['excel', 'ASP', 'Java', 'python', 'C']
+2019-05-27 09:07:10,571-serverLog-INFO-Parsed programs: ['excel', 'ASP', 'Java', 'python', 'C']
+2019-05-27 09:07:10,571-serverLog-INFO-Parsed employee: {'address': 'Misgav', 'salary': '10000', 'birthday': {'month': '12', 'year': '1972', 'day': '19'}, 'programs': ['excel', 'ASP', 'Java', 'python', 'C'], 'department': 'qa', 'name': 'Moshe'}
+2019-05-27 09:07:10,571-serverLog-INFO-Got birthday: {'year': '1985', 'month': '11', 'day': '12'}
+2019-05-27 09:07:10,571-serverLog-INFO-Got programs: ['python', 'excel', 'C']
+2019-05-27 09:07:10,571-serverLog-INFO-Parsed programs: ['python', 'excel', 'C']
+2019-05-27 09:07:10,572-serverLog-INFO-Parsed employee: {'address': 'Misgav', 'salary': '987', 'birthday': {'month': '11', 'year': '1985', 'day': '12'}, 'programs': ['python', 'excel', 'C'], 'department': 'marketing', 'name': 'David'}
+2019-05-27 09:07:10,572-serverLog-INFO-Got birthday: {'year': '1975', 'month': '11', 'day': '24'}
+2019-05-27 09:07:10,572-serverLog-INFO-Got programs: ['Java', 'snake', 'excel']
+2019-05-27 09:07:10,572-serverLog-INFO-Parsed programs: ['Java', 'snake', 'excel']
+2019-05-27 09:07:10,572-serverLog-INFO-Parsed employee: {'address': 'Misgav', 'salary': '5000', 'birthday': {'month': '11', 'year': '1975', 'day': '24'}, 'programs': ['Java', 'snake', 'excel'], 'department': 'marketing', 'name': 'Elad'}
+2019-05-27 09:07:10,572-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,572-serverLog-INFO-result is True
+2019-05-27 09:07:10,583-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,583-serverLog-INFO-result is True
+2019-05-27 09:07:10,588-serverLog-INFO-Got birthday: 10-2-1979
+2019-05-27 09:07:10,588-serverLog-INFO-Got programs: [ASP, C, python]
+2019-05-27 09:07:10,588-serverLog-INFO-Parsed programs: ['ASP', 'C', 'python']
+2019-05-27 09:07:10,589-serverLog-INFO-Parsed employee: {'address': 'Tel-Aviv', 'salary': '19000', 'birthday': {'month': '2', 'year': '1979', 'day': '10'}, 'programs': ['ASP', 'C', 'python'], 'department': 'dev', 'name': 'Emp1'}
+2019-05-27 09:07:10,589-serverLog-INFO-add_emp: Emp1
+2019-05-27 09:07:10,589-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,589-serverLog-INFO-result is True
+2019-05-27 09:07:10,593-serverLog-INFO-Got birthday: 15-5-1956
+2019-05-27 09:07:10,593-serverLog-INFO-Got programs: [python, C, Java, snake, excel]
+2019-05-27 09:07:10,593-serverLog-INFO-Parsed programs: ['python', 'C', 'Java', 'snake', 'excel']
+2019-05-27 09:07:10,593-serverLog-INFO-Parsed employee: {'address': 'Tel-Aviv', 'salary': '9400', 'birthday': {'month': '5', 'year': '1956', 'day': '15'}, 'programs': ['python', 'C', 'Java', 'snake', 'excel'], 'department': 'qa', 'name': 'Emp2'}
+2019-05-27 09:07:10,593-serverLog-INFO-add_emp: Emp2
+2019-05-27 09:07:10,593-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,593-serverLog-INFO-result is True
+2019-05-27 09:07:10,597-serverLog-INFO-Got birthday: 12-7-1986
+2019-05-27 09:07:10,597-serverLog-INFO-Got programs: [snake, Java]
+2019-05-27 09:07:10,597-serverLog-INFO-Parsed programs: ['snake', 'Java']
+2019-05-27 09:07:10,597-serverLog-INFO-Parsed employee: {'address': 'Misgav', 'salary': '34500', 'birthday': {'month': '7', 'year': '1986', 'day': '12'}, 'programs': ['snake', 'Java'], 'department': 'marketing', 'name': 'Emp3'}
+2019-05-27 09:07:10,597-serverLog-INFO-add_emp: Emp3
+2019-05-27 09:07:10,598-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,598-serverLog-INFO-result is True
+2019-05-27 09:07:10,601-serverLog-INFO-Got birthday: 21-7-1969
+2019-05-27 09:07:10,601-serverLog-INFO-Got programs: [Java]
+2019-05-27 09:07:10,602-serverLog-INFO-Parsed programs: ['Java']
+2019-05-27 09:07:10,602-serverLog-INFO-Parsed employee: {'address': 'Jerusalem', 'salary': '31700', 'birthday': {'month': '7', 'year': '1969', 'day': '21'}, 'programs': ['Java'], 'department': 'management', 'name': 'Emp4'}
+2019-05-27 09:07:10,602-serverLog-INFO-add_emp: Emp4
+2019-05-27 09:07:10,602-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,602-serverLog-INFO-result is True
+2019-05-27 09:07:10,606-serverLog-INFO-Got birthday: 14-7-1964
+2019-05-27 09:07:10,606-serverLog-INFO-Got programs: [snake]
+2019-05-27 09:07:10,606-serverLog-INFO-Parsed programs: ['snake']
+2019-05-27 09:07:10,606-serverLog-INFO-Parsed employee: {'address': 'Misgav', 'salary': '18900', 'birthday': {'month': '7', 'year': '1964', 'day': '14'}, 'programs': ['snake'], 'department': 'dev', 'name': 'Emp5'}
+2019-05-27 09:07:10,606-serverLog-INFO-add_emp: Emp5
+2019-05-27 09:07:10,607-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,607-serverLog-INFO-result is True
+2019-05-27 09:07:10,611-serverLog-INFO-Got birthday: 1-12-1998
+2019-05-27 09:07:10,612-serverLog-INFO-Got programs: [excel, Java]
+2019-05-27 09:07:10,612-serverLog-INFO-Parsed programs: ['excel', 'Java']
+2019-05-27 09:07:10,612-serverLog-INFO-Parsed employee: {'address': 'Tel-Aviv', 'salary': '19800', 'birthday': {'month': '12', 'year': '1998', 'day': '1'}, 'programs': ['excel', 'Java'], 'department': 'dev', 'name': 'Emp6'}
+2019-05-27 09:07:10,612-serverLog-INFO-add_emp: Emp6
+2019-05-27 09:07:10,612-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,612-serverLog-INFO-result is True
+2019-05-27 09:07:10,616-serverLog-INFO-Got birthday: 4-8-1982
+2019-05-27 09:07:10,616-serverLog-INFO-Got programs: [python]
+2019-05-27 09:07:10,616-serverLog-INFO-Parsed programs: ['python']
+2019-05-27 09:07:10,616-serverLog-INFO-Parsed employee: {'address': 'Jerusalem', 'salary': '33400', 'birthday': {'month': '8', 'year': '1982', 'day': '4'}, 'programs': ['python'], 'department': 'marketing', 'name': 'Emp7'}
+2019-05-27 09:07:10,617-serverLog-INFO-add_emp: Emp7
+2019-05-27 09:07:10,617-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,617-serverLog-INFO-result is True
+2019-05-27 09:07:10,622-serverLog-INFO-Got birthday: 7-7-2000
+2019-05-27 09:07:10,622-serverLog-INFO-Got programs: [excel]
+2019-05-27 09:07:10,622-serverLog-INFO-Parsed programs: ['excel']
+2019-05-27 09:07:10,622-serverLog-INFO-Parsed employee: {'address': 'Jerusalem', 'salary': '31400', 'birthday': {'month': '7', 'year': '2000', 'day': '7'}, 'programs': ['excel'], 'department': 'marketing', 'name': 'Emp8'}
+2019-05-27 09:07:10,622-serverLog-INFO-add_emp: Emp8
+2019-05-27 09:07:10,623-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,623-serverLog-INFO-result is True
+2019-05-27 09:07:10,629-serverLog-INFO-Got birthday: 18-2-1990
+2019-05-27 09:07:10,631-serverLog-INFO-Got programs: [excel, python]
+2019-05-27 09:07:10,631-serverLog-INFO-Parsed programs: ['excel', 'python']
+2019-05-27 09:07:10,631-serverLog-INFO-Parsed employee: {'address': 'Misgav', 'salary': '7400', 'birthday': {'month': '2', 'year': '1990', 'day': '18'}, 'programs': ['excel', 'python'], 'department': 'qa', 'name': 'Emp9'}
+2019-05-27 09:07:10,631-serverLog-INFO-add_emp: Emp9
+2019-05-27 09:07:10,632-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,632-serverLog-INFO-result is True
+2019-05-27 09:07:10,637-serverLog-INFO-Got birthday: 13-2-1990
+2019-05-27 09:07:10,638-serverLog-INFO-Got programs: [python, ASP, excel]
+2019-05-27 09:07:10,638-serverLog-INFO-Parsed programs: ['python', 'ASP', 'excel']
+2019-05-27 09:07:10,638-serverLog-INFO-Parsed employee: {'address': 'Misgav', 'salary': '32600', 'birthday': {'month': '2', 'year': '1990', 'day': '13'}, 'programs': ['python', 'ASP', 'excel'], 'department': 'dev', 'name': 'Emp10'}
+2019-05-27 09:07:10,638-serverLog-INFO-add_emp: Emp10
+2019-05-27 09:07:10,639-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,639-serverLog-INFO-result is True
+2019-05-27 09:07:10,645-serverLog-INFO-Got birthday: 1-10-1998
+2019-05-27 09:07:10,656-serverLog-INFO-Got programs: [ASP, excel]
+2019-05-27 09:07:10,656-serverLog-INFO-Parsed programs: ['ASP', 'excel']
+2019-05-27 09:07:10,656-serverLog-INFO-Parsed employee: {'address': 'Jerusalem', 'salary': '31600', 'birthday': {'month': '10', 'year': '1998', 'day': '1'}, 'programs': ['ASP', 'excel'], 'department': 'management', 'name': 'Wrong-Emp'}
+2019-05-27 09:07:10,656-serverLog-INFO-add_emp: Wrong-Emp
+2019-05-27 09:07:10,656-serverLog-INFO-result is Employee limit reached. Cannot add another one.
+2019-05-27 09:07:10,665-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,665-serverLog-INFO-result is True
+2019-05-27 09:07:10,677-serverLog-INFO-Got birthday: 14-8-1995
+2019-05-27 09:07:10,677-serverLog-INFO-Got programs: [snake]
+2019-05-27 09:07:10,677-serverLog-INFO-Parsed programs: ['snake']
+2019-05-27 09:07:10,678-serverLog-INFO-Parsed employee: {'address': 'Tel-Aviv', 'salary': '35500', 'birthday': {'month': '8', 'year': '1995', 'day': '14'}, 'programs': ['snake'], 'department': 'qa', 'name': 'HighSal'}
+2019-05-27 09:07:10,678-serverLog-INFO-add_emp: HighSal
+2019-05-27 09:07:10,678-serverLog-INFO-result is Employee's salary is too high. Cannot add this employee.
+2019-05-27 09:07:10,687-serverLog-INFO-Got birthday: 14-7-1986
+2019-05-27 09:07:10,687-serverLog-INFO-Got programs: [python, C, Java]
+2019-05-27 09:07:10,687-serverLog-INFO-Parsed programs: ['python', 'C', 'Java']
+2019-05-27 09:07:10,687-serverLog-INFO-Parsed employee: {'address': 'Misgav', 'salary': '15500', 'birthday': {'month': '7', 'year': '1986', 'day': '14'}, 'programs': ['python', 'C', 'Java'], 'department': 'qa', 'name': 'NormalSal'}
+2019-05-27 09:07:10,687-serverLog-INFO-add_emp: NormalSal
+2019-05-27 09:07:10,687-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,688-serverLog-INFO-result is True
+2019-05-27 09:07:10,693-serverLog-INFO-Got birthday: 13-7-1973
+2019-05-27 09:07:10,693-serverLog-INFO-Got programs: [snake, excel, C]
+2019-05-27 09:07:10,693-serverLog-INFO-Parsed programs: ['snake', 'excel', 'C']
+2019-05-27 09:07:10,693-serverLog-INFO-Parsed employee: {'address': 'Tel-Aviv', 'salary': '1500', 'birthday': {'month': '7', 'year': '1973', 'day': '13'}, 'programs': ['snake', 'excel', 'C'], 'department': 'marketing', 'name': 'Other_Emp'}
+2019-05-27 09:07:10,693-serverLog-INFO-add_emp: Other_Emp
+2019-05-27 09:07:10,694-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,694-serverLog-INFO-result is True
+2019-05-27 09:07:10,697-serverLog-INFO-result is Salary too high
+2019-05-27 09:07:10,703-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,703-serverLog-INFO-result is Employee NormalSal's salary would exceed. Therefore salary will not update. (Other employees' salary was updated.) 
+2019-05-27 09:07:10,714-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,714-serverLog-INFO-result is True
+2019-05-27 09:07:10,722-serverLog-INFO-Got birthday: 01-01-1953
+2019-05-27 09:07:10,723-serverLog-INFO-Got programs: [Java, C, snake, python]
+2019-05-27 09:07:10,723-serverLog-INFO-Parsed programs: ['Java', 'C', 'snake', 'python']
+2019-05-27 09:07:10,723-serverLog-INFO-Parsed employee: {'address': 'Jerusalem', 'salary': '20500', 'birthday': {'month': '01', 'year': '1953', 'day': '01'}, 'programs': ['Java', 'C', 'snake', 'python'], 'department': 'dev', 'name': 'OldAge'}
+2019-05-27 09:07:10,723-serverLog-INFO-add_emp: OldAge
+2019-05-27 09:07:10,723-serverLog-INFO-result is Note employee's age. Consider retiring this employee.
+2019-05-27 09:07:10,730-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,730-serverLog-INFO-result is True
+2019-05-27 09:07:10,734-serverLog-INFO-Got birthday: 01-01-2000
+2019-05-27 09:07:10,734-serverLog-INFO-Got programs: [ASP, excel, python, snake]
+2019-05-27 09:07:10,734-serverLog-INFO-Parsed programs: ['ASP', 'excel', 'python', 'snake']
+2019-05-27 09:07:10,734-serverLog-INFO-Parsed employee: {'address': 'Jerusalem', 'salary': '20200', 'birthday': {'month': '01', 'year': '2000', 'day': '01'}, 'programs': ['ASP', 'excel', 'python', 'snake'], 'department': 'qa', 'name': 'Emp_Jan'}
+2019-05-27 09:07:10,734-serverLog-INFO-add_emp: Emp_Jan
+2019-05-27 09:07:10,735-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,735-serverLog-INFO-result is True
+2019-05-27 09:07:10,739-serverLog-INFO-Got birthday: 01-02-2000
+2019-05-27 09:07:10,739-serverLog-INFO-Got programs: [Java, ASP, excel, snake]
+2019-05-27 09:07:10,739-serverLog-INFO-Parsed programs: ['Java', 'ASP', 'excel', 'snake']
+2019-05-27 09:07:10,740-serverLog-INFO-Parsed employee: {'address': 'Tel-Aviv', 'salary': '21900', 'birthday': {'month': '02', 'year': '2000', 'day': '01'}, 'programs': ['Java', 'ASP', 'excel', 'snake'], 'department': 'marketing', 'name': 'Emp_Feb'}
+2019-05-27 09:07:10,740-serverLog-INFO-add_emp: Emp_Feb
+2019-05-27 09:07:10,740-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,740-serverLog-INFO-result is True
+2019-05-27 09:07:10,745-serverLog-INFO-Got birthday: 01-03-2000
+2019-05-27 09:07:10,745-serverLog-INFO-Got programs: [snake, Java, ASP]
+2019-05-27 09:07:10,745-serverLog-INFO-Parsed programs: ['snake', 'Java', 'ASP']
+2019-05-27 09:07:10,745-serverLog-INFO-Parsed employee: {'address': 'Misgav', 'salary': '7500', 'birthday': {'month': '03', 'year': '2000', 'day': '01'}, 'programs': ['snake', 'Java', 'ASP'], 'department': 'management', 'name': 'Emp_Mar'}
+2019-05-27 09:07:10,745-serverLog-INFO-add_emp: Emp_Mar
+2019-05-27 09:07:10,749-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,749-serverLog-INFO-result is True
+2019-05-27 09:07:10,754-serverLog-INFO-Got birthday: 01-04-2000
+2019-05-27 09:07:10,754-serverLog-INFO-Got programs: [Java, snake]
+2019-05-27 09:07:10,754-serverLog-INFO-Parsed programs: ['Java', 'snake']
+2019-05-27 09:07:10,754-serverLog-INFO-Parsed employee: {'address': 'Misgav', 'salary': '27700', 'birthday': {'month': '04', 'year': '2000', 'day': '01'}, 'programs': ['Java', 'snake'], 'department': 'marketing', 'name': 'Emp_Apr'}
+2019-05-27 09:07:10,754-serverLog-INFO-add_emp: Emp_Apr
+2019-05-27 09:07:10,755-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,755-serverLog-INFO-result is True
+2019-05-27 09:07:10,761-serverLog-INFO-Got birthday: 01-05-2000
+2019-05-27 09:07:10,761-serverLog-INFO-Got programs: [ASP, C]
+2019-05-27 09:07:10,761-serverLog-INFO-Parsed programs: ['ASP', 'C']
+2019-05-27 09:07:10,761-serverLog-INFO-Parsed employee: {'address': 'Jerusalem', 'salary': '22700', 'birthday': {'month': '05', 'year': '2000', 'day': '01'}, 'programs': ['ASP', 'C'], 'department': 'qa', 'name': 'Emp_May'}
+2019-05-27 09:07:10,761-serverLog-INFO-add_emp: Emp_May
+2019-05-27 09:07:10,762-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,762-serverLog-INFO-result is True
+2019-05-27 09:07:10,767-serverLog-INFO-Got birthday: 01-06-2000
+2019-05-27 09:07:10,768-serverLog-INFO-Got programs: [ASP, C]
+2019-05-27 09:07:10,768-serverLog-INFO-Parsed programs: ['ASP', 'C']
+2019-05-27 09:07:10,768-serverLog-INFO-Parsed employee: {'address': 'Misgav', 'salary': '12400', 'birthday': {'month': '06', 'year': '2000', 'day': '01'}, 'programs': ['ASP', 'C'], 'department': 'management', 'name': 'Emp_Jun'}
+2019-05-27 09:07:10,768-serverLog-INFO-add_emp: Emp_Jun
+2019-05-27 09:07:10,769-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,769-serverLog-INFO-result is True
+2019-05-27 09:07:10,774-serverLog-INFO-Got birthday: 01-07-2000
+2019-05-27 09:07:10,775-serverLog-INFO-Got programs: [Java, excel, ASP]
+2019-05-27 09:07:10,775-serverLog-INFO-Parsed programs: ['Java', 'excel', 'ASP']
+2019-05-27 09:07:10,775-serverLog-INFO-Parsed employee: {'address': 'Tel-Aviv', 'salary': '16700', 'birthday': {'month': '07', 'year': '2000', 'day': '01'}, 'programs': ['Java', 'excel', 'ASP'], 'department': 'qa', 'name': 'Emp_Jul'}
+2019-05-27 09:07:10,775-serverLog-INFO-add_emp: Emp_Jul
+2019-05-27 09:07:10,775-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,775-serverLog-INFO-result is True
+2019-05-27 09:07:10,781-serverLog-INFO-Got birthday: 01-08-2000
+2019-05-27 09:07:10,781-serverLog-INFO-Got programs: [C, snake]
+2019-05-27 09:07:10,781-serverLog-INFO-Parsed programs: ['C', 'snake']
+2019-05-27 09:07:10,781-serverLog-INFO-Parsed employee: {'address': 'Jerusalem', 'salary': '14500', 'birthday': {'month': '08', 'year': '2000', 'day': '01'}, 'programs': ['C', 'snake'], 'department': 'dev', 'name': 'Emp_Aug'}
+2019-05-27 09:07:10,781-serverLog-INFO-add_emp: Emp_Aug
+2019-05-27 09:07:10,782-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,782-serverLog-INFO-result is True
+2019-05-27 09:07:10,788-serverLog-INFO-Got birthday: 01-09-2000
+2019-05-27 09:07:10,788-serverLog-INFO-Got programs: [C]
+2019-05-27 09:07:10,788-serverLog-INFO-Parsed programs: ['C']
+2019-05-27 09:07:10,788-serverLog-INFO-Parsed employee: {'address': 'Jerusalem', 'salary': '29700', 'birthday': {'month': '09', 'year': '2000', 'day': '01'}, 'programs': ['C'], 'department': 'marketing', 'name': 'Emp_Sep'}
+2019-05-27 09:07:10,789-serverLog-INFO-add_emp: Emp_Sep
+2019-05-27 09:07:10,789-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,790-serverLog-INFO-result is True
+2019-05-27 09:07:10,795-serverLog-INFO-Got birthday: 01-01-2000
+2019-05-27 09:07:10,796-serverLog-INFO-Got programs: [excel, Java, snake, python]
+2019-05-27 09:07:10,796-serverLog-INFO-Parsed programs: ['excel', 'Java', 'snake', 'python']
+2019-05-27 09:07:10,796-serverLog-INFO-Parsed employee: {'address': 'Tel-Aviv', 'salary': '30300', 'birthday': {'month': '01', 'year': '2000', 'day': '01'}, 'programs': ['excel', 'Java', 'snake', 'python'], 'department': 'qa', 'name': 'Emp2_Jan'}
+2019-05-27 09:07:10,796-serverLog-INFO-add_emp: Emp2_Jan
+2019-05-27 09:07:10,797-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,797-serverLog-INFO-result is True
+2019-05-27 09:07:10,801-serverLog-INFO-result is ['Emp2_Jan', 'Emp_Jan']
+2019-05-27 09:07:10,804-serverLog-INFO-result is ['Emp_Feb']
+2019-05-27 09:07:10,808-serverLog-INFO-result is ['Emp_Mar']
+2019-05-27 09:07:10,813-serverLog-INFO-result is ['Emp_Apr']
+2019-05-27 09:07:10,819-serverLog-INFO-result is ['Emp_May']
+2019-05-27 09:07:10,822-serverLog-INFO-result is ['Emp_Jun']
+2019-05-27 09:07:10,826-serverLog-INFO-result is ['Emp_Jul']
+2019-05-27 09:07:10,835-serverLog-INFO-result is ['Emp_Aug']
+2019-05-27 09:07:10,842-serverLog-INFO-result is ['Emp_Sep']
+2019-05-27 09:07:10,851-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,852-serverLog-INFO-result is True
+2019-05-27 09:07:10,860-serverLog-INFO-Got birthday: 7-1-1960
+2019-05-27 09:07:10,860-serverLog-INFO-Got programs: [C, ASP]
+2019-05-27 09:07:10,861-serverLog-INFO-Parsed programs: ['C', 'ASP']
+2019-05-27 09:07:10,861-serverLog-INFO-Parsed employee: {'address': 'Tel-Aviv', 'salary': '25600', 'birthday': {'month': '1', 'year': '1960', 'day': '7'}, 'programs': ['C', 'ASP'], 'department': 'marketing', 'name': 'Emp1'}
+2019-05-27 09:07:10,861-serverLog-INFO-add_emp: Emp1
+2019-05-27 09:07:10,861-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,861-serverLog-INFO-result is True
+2019-05-27 09:07:10,867-serverLog-INFO-Got birthday: 11-5-1979
+2019-05-27 09:07:10,868-serverLog-INFO-Got programs: [C, Java, python, snake]
+2019-05-27 09:07:10,868-serverLog-INFO-Parsed programs: ['C', 'Java', 'python', 'snake']
+2019-05-27 09:07:10,868-serverLog-INFO-Parsed employee: {'address': 'Misgav', 'salary': '32300', 'birthday': {'month': '5', 'year': '1979', 'day': '11'}, 'programs': ['C', 'Java', 'python', 'snake'], 'department': 'marketing', 'name': 'Emp2'}
+2019-05-27 09:07:10,868-serverLog-INFO-add_emp: Emp2
+2019-05-27 09:07:10,868-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,868-serverLog-INFO-result is True
+2019-05-27 09:07:10,874-serverLog-INFO-Got birthday: 14-7-1983
+2019-05-27 09:07:10,874-serverLog-INFO-Got programs: [snake, excel, python, ASP]
+2019-05-27 09:07:10,874-serverLog-INFO-Parsed programs: ['snake', 'excel', 'python', 'ASP']
+2019-05-27 09:07:10,874-serverLog-INFO-Parsed employee: {'address': 'Tel-Aviv', 'salary': '29300', 'birthday': {'month': '7', 'year': '1983', 'day': '14'}, 'programs': ['snake', 'excel', 'python', 'ASP'], 'department': 'dev', 'name': 'Emp3'}
+2019-05-27 09:07:10,874-serverLog-INFO-add_emp: Emp3
+2019-05-27 09:07:10,875-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,875-serverLog-INFO-result is True
+2019-05-27 09:07:10,881-serverLog-INFO-Got birthday: 13-7-1963
+2019-05-27 09:07:10,881-serverLog-INFO-Got programs: [snake, C, excel, python]
+2019-05-27 09:07:10,881-serverLog-INFO-Parsed programs: ['snake', 'C', 'excel', 'python']
+2019-05-27 09:07:10,881-serverLog-INFO-Parsed employee: {'address': 'Jerusalem', 'salary': '12200', 'birthday': {'month': '7', 'year': '1963', 'day': '13'}, 'programs': ['snake', 'C', 'excel', 'python'], 'department': 'marketing', 'name': 'Emp4'}
+2019-05-27 09:07:10,881-serverLog-INFO-add_emp: Emp4
+2019-05-27 09:07:10,882-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,882-serverLog-INFO-result is True
+2019-05-27 09:07:10,891-serverLog-INFO-Got birthday: 21-4-1998
+2019-05-27 09:07:10,891-serverLog-INFO-Got programs: [C, ASP]
+2019-05-27 09:07:10,891-serverLog-INFO-Parsed programs: ['C', 'ASP']
+2019-05-27 09:07:10,891-serverLog-INFO-Parsed employee: {'address': 'Misgav', 'salary': '19900', 'birthday': {'month': '4', 'year': '1998', 'day': '21'}, 'programs': ['C', 'ASP'], 'department': 'qa', 'name': 'Emp5'}
+2019-05-27 09:07:10,892-serverLog-INFO-add_emp: Emp5
+2019-05-27 09:07:10,892-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,892-serverLog-INFO-result is True
+2019-05-27 09:07:10,897-serverLog-INFO-Got birthday: 12-6-1963
+2019-05-27 09:07:10,897-serverLog-INFO-Got programs: [ASP]
+2019-05-27 09:07:10,898-serverLog-INFO-Parsed programs: ['ASP']
+2019-05-27 09:07:10,898-serverLog-INFO-Parsed employee: {'address': 'Tel-Aviv', 'salary': '27000', 'birthday': {'month': '6', 'year': '1963', 'day': '12'}, 'programs': ['ASP'], 'department': 'qa', 'name': 'Emp6'}
+2019-05-27 09:07:10,898-serverLog-INFO-add_emp: Emp6
+2019-05-27 09:07:10,898-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,898-serverLog-INFO-result is True
+2019-05-27 09:07:10,904-serverLog-INFO-Got birthday: 23-10-1995
+2019-05-27 09:07:10,904-serverLog-INFO-Got programs: [python, excel, Java]
+2019-05-27 09:07:10,904-serverLog-INFO-Parsed programs: ['python', 'excel', 'Java']
+2019-05-27 09:07:10,904-serverLog-INFO-Parsed employee: {'address': 'Misgav', 'salary': '25100', 'birthday': {'month': '10', 'year': '1995', 'day': '23'}, 'programs': ['python', 'excel', 'Java'], 'department': 'marketing', 'name': 'Emp7'}
+2019-05-27 09:07:10,904-serverLog-INFO-add_emp: Emp7
+2019-05-27 09:07:10,905-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,905-serverLog-INFO-result is True
+2019-05-27 09:07:10,910-serverLog-INFO-Got birthday: 17-8-1970
+2019-05-27 09:07:10,911-serverLog-INFO-Got programs: [C, Java, excel, snake]
+2019-05-27 09:07:10,911-serverLog-INFO-Parsed programs: ['C', 'Java', 'excel', 'snake']
+2019-05-27 09:07:10,911-serverLog-INFO-Parsed employee: {'address': 'Jerusalem', 'salary': '8000', 'birthday': {'month': '8', 'year': '1970', 'day': '17'}, 'programs': ['C', 'Java', 'excel', 'snake'], 'department': 'management', 'name': 'Emp8'}
+2019-05-27 09:07:10,911-serverLog-INFO-add_emp: Emp8
+2019-05-27 09:07:10,912-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,912-serverLog-INFO-result is True
+2019-05-27 09:07:10,917-serverLog-INFO-Got birthday: 17-7-1975
+2019-05-27 09:07:10,917-serverLog-INFO-Got programs: [Java, C]
+2019-05-27 09:07:10,917-serverLog-INFO-Parsed programs: ['Java', 'C']
+2019-05-27 09:07:10,917-serverLog-INFO-Parsed employee: {'address': 'Jerusalem', 'salary': '25700', 'birthday': {'month': '7', 'year': '1975', 'day': '17'}, 'programs': ['Java', 'C'], 'department': 'dev', 'name': 'Emp9'}
+2019-05-27 09:07:10,918-serverLog-INFO-add_emp: Emp9
+2019-05-27 09:07:10,918-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,918-serverLog-INFO-result is True
+2019-05-27 09:07:10,924-serverLog-INFO-Got birthday: 10-7-1966
+2019-05-27 09:07:10,924-serverLog-INFO-Got programs: [C]
+2019-05-27 09:07:10,924-serverLog-INFO-Parsed programs: ['C']
+2019-05-27 09:07:10,924-serverLog-INFO-Parsed employee: {'address': 'Tel-Aviv', 'salary': '7400', 'birthday': {'month': '7', 'year': '1966', 'day': '10'}, 'programs': ['C'], 'department': 'qa', 'name': 'Emp10'}
+2019-05-27 09:07:10,924-serverLog-INFO-add_emp: Emp10
+2019-05-27 09:07:10,925-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,926-serverLog-INFO-result is True
+2019-05-27 09:07:10,936-serverLog-INFO-Delete Emp: Emp3
+2019-05-27 09:07:10,936-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,937-serverLog-INFO-result is True
+2019-05-27 09:07:10,961-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,962-serverLog-INFO-result is True
+2019-05-27 09:07:10,970-serverLog-INFO-Got birthday: 20-9-1983
+2019-05-27 09:07:10,970-serverLog-INFO-Got programs: [snake, ASP, Java, python]
+2019-05-27 09:07:10,970-serverLog-INFO-Parsed programs: ['snake', 'ASP', 'Java', 'python']
+2019-05-27 09:07:10,971-serverLog-INFO-Parsed employee: {'address': 'Misgav', 'salary': '14400', 'birthday': {'month': '9', 'year': '1983', 'day': '20'}, 'programs': ['snake', 'ASP', 'Java', 'python'], 'department': 'qa', 'name': 'David'}
+2019-05-27 09:07:10,971-serverLog-INFO-add_emp: David
+2019-05-27 09:07:10,971-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,971-serverLog-INFO-result is True
+2019-05-27 09:07:10,977-serverLog-INFO-Got birthday: 20-9-1983
+2019-05-27 09:07:10,977-serverLog-INFO-Got programs: [snake, ASP, Java, python]
+2019-05-27 09:07:10,977-serverLog-INFO-Parsed programs: ['snake', 'ASP', 'Java', 'python']
+2019-05-27 09:07:10,977-serverLog-INFO-Parsed employee: {'address': 'Misgav', 'salary': '14400', 'birthday': {'month': '9', 'year': '1983', 'day': '20'}, 'programs': ['snake', 'ASP', 'Java', 'python'], 'department': 'qa', 'name': 'David'}
+2019-05-27 09:07:10,977-serverLog-INFO-add_emp: David
+2019-05-27 09:07:10,977-serverLog-INFO-result is Employee exists
+2019-05-27 09:07:10,987-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,987-serverLog-INFO-result is True
+2019-05-27 09:07:10,998-serverLog-INFO-Got birthday: 2-6-1996
+2019-05-27 09:07:10,999-serverLog-INFO-Got programs: [Java, snake]
+2019-05-27 09:07:10,999-serverLog-INFO-Parsed programs: ['Java', 'snake']
+2019-05-27 09:07:10,999-serverLog-INFO-Parsed employee: {'address': 'Jerusalem', 'salary': '5000', 'birthday': {'month': '6', 'year': '1996', 'day': '2'}, 'programs': ['Java', 'snake'], 'department': 'marketing', 'name': 'Emp1-5000'}
+2019-05-27 09:07:10,999-serverLog-INFO-add_emp: Emp1-5000
+2019-05-27 09:07:10,999-serverLog-INFO-Data Saved
+2019-05-27 09:07:10,999-serverLog-INFO-result is True
+2019-05-27 09:07:11,006-serverLog-INFO-Got birthday: 16-3-1972
+2019-05-27 09:07:11,006-serverLog-INFO-Got programs: [snake, C, python]
+2019-05-27 09:07:11,006-serverLog-INFO-Parsed programs: ['snake', 'C', 'python']
+2019-05-27 09:07:11,006-serverLog-INFO-Parsed employee: {'address': 'Misgav', 'salary': '365', 'birthday': {'month': '3', 'year': '1972', 'day': '16'}, 'programs': ['snake', 'C', 'python'], 'department': 'dev', 'name': 'Emp2-365'}
+2019-05-27 09:07:11,006-serverLog-INFO-add_emp: Emp2-365
+2019-05-27 09:07:11,007-serverLog-INFO-Data Saved
+2019-05-27 09:07:11,007-serverLog-INFO-result is True
+2019-05-27 09:07:11,014-serverLog-INFO-Got birthday: 12-8-1979
+2019-05-27 09:07:11,015-serverLog-INFO-Got programs: [Java, ASP, excel, snake]
+2019-05-27 09:07:11,015-serverLog-INFO-Parsed programs: ['Java', 'ASP', 'excel', 'snake']
+2019-05-27 09:07:11,015-serverLog-INFO-Parsed employee: {'address': 'Misgav', 'salary': '10000', 'birthday': {'month': '8', 'year': '1979', 'day': '12'}, 'programs': ['Java', 'ASP', 'excel', 'snake'], 'department': 'management', 'name': 'Emp3-10000'}
+2019-05-27 09:07:11,015-serverLog-INFO-add_emp: Emp3-10000
+2019-05-27 09:07:11,015-serverLog-INFO-Data Saved
+2019-05-27 09:07:11,016-serverLog-INFO-result is True
+2019-05-27 09:07:11,021-serverLog-INFO-Got birthday: 10-5-1960
+2019-05-27 09:07:11,022-serverLog-INFO-Got programs: [excel, C, python]
+2019-05-27 09:07:11,022-serverLog-INFO-Parsed programs: ['excel', 'C', 'python']
+2019-05-27 09:07:11,022-serverLog-INFO-Parsed employee: {'address': 'Tel-Aviv', 'salary': '987', 'birthday': {'month': '5', 'year': '1960', 'day': '10'}, 'programs': ['excel', 'C', 'python'], 'department': 'qa', 'name': 'Emp4-987'}
+2019-05-27 09:07:11,022-serverLog-INFO-add_emp: Emp4-987
+2019-05-27 09:07:11,022-serverLog-INFO-Data Saved
+2019-05-27 09:07:11,023-serverLog-INFO-result is True
+2019-05-27 09:07:11,032-serverLog-INFO-Got birthday: 2-1-1965
+2019-05-27 09:07:11,032-serverLog-INFO-Got programs: [snake, C, python]
+2019-05-27 09:07:11,032-serverLog-INFO-Parsed programs: ['snake', 'C', 'python']
+2019-05-27 09:07:11,032-serverLog-INFO-Parsed employee: {'address': 'Misgav', 'salary': '8000', 'birthday': {'month': '1', 'year': '1965', 'day': '2'}, 'programs': ['snake', 'C', 'python'], 'department': 'qa', 'name': 'Emp5-8000'}
+2019-05-27 09:07:11,032-serverLog-INFO-add_emp: Emp5-8000
+2019-05-27 09:07:11,033-serverLog-INFO-Data Saved
+2019-05-27 09:07:11,033-serverLog-INFO-result is True
+2019-05-27 09:07:11,039-serverLog-INFO-Got birthday: 15-12-1966
+2019-05-27 09:07:11,039-serverLog-INFO-Got programs: [Java]
+2019-05-27 09:07:11,039-serverLog-INFO-Parsed programs: ['Java']
+2019-05-27 09:07:11,039-serverLog-INFO-Parsed employee: {'address': 'Tel-Aviv', 'salary': '450', 'birthday': {'month': '12', 'year': '1966', 'day': '15'}, 'programs': ['Java'], 'department': 'management', 'name': 'Emp6-450'}
+2019-05-27 09:07:11,039-serverLog-INFO-add_emp: Emp6-450
+2019-05-27 09:07:11,040-serverLog-INFO-Data Saved
+2019-05-27 09:07:11,040-serverLog-INFO-result is True
+2019-05-27 09:07:11,046-serverLog-INFO-Got birthday: 8-12-1993
+2019-05-27 09:07:11,046-serverLog-INFO-Got programs: [excel, snake, Java]
+2019-05-27 09:07:11,046-serverLog-INFO-Parsed programs: ['excel', 'snake', 'Java']
+2019-05-27 09:07:11,046-serverLog-INFO-Parsed employee: {'address': 'Misgav', 'salary': '17', 'birthday': {'month': '12', 'year': '1993', 'day': '8'}, 'programs': ['excel', 'snake', 'Java'], 'department': 'management', 'name': 'Emp7-17'}
+2019-05-27 09:07:11,046-serverLog-INFO-add_emp: Emp7-17
+2019-05-27 09:07:11,047-serverLog-INFO-Data Saved
+2019-05-27 09:07:11,047-serverLog-INFO-result is True
+2019-05-27 09:07:11,051-serverLog-INFO-Got birthday: 25-5-1962
+2019-05-27 09:07:11,051-serverLog-INFO-Got programs: [C]
+2019-05-27 09:07:11,051-serverLog-INFO-Parsed programs: ['C']
+2019-05-27 09:07:11,051-serverLog-INFO-Parsed employee: {'address': 'Misgav', 'salary': '35000', 'birthday': {'month': '5', 'year': '1962', 'day': '25'}, 'programs': ['C'], 'department': 'dev', 'name': 'Emp8-35000'}
+2019-05-27 09:07:11,051-serverLog-INFO-add_emp: Emp8-35000
+2019-05-27 09:07:11,052-serverLog-INFO-Data Saved
+2019-05-27 09:07:11,052-serverLog-INFO-result is True
+2019-05-27 09:07:11,057-serverLog-INFO-Got birthday: 6-3-1967
+2019-05-27 09:07:11,057-serverLog-INFO-Got programs: [python, snake, Java, ASP]
+2019-05-27 09:07:11,058-serverLog-INFO-Parsed programs: ['python', 'snake', 'Java', 'ASP']
+2019-05-27 09:07:11,058-serverLog-INFO-Parsed employee: {'address': 'Tel-Aviv', 'salary': '1', 'birthday': {'month': '3', 'year': '1967', 'day': '6'}, 'programs': ['python', 'snake', 'Java', 'ASP'], 'department': 'marketing', 'name': 'Emp9-1'}
+2019-05-27 09:07:11,058-serverLog-INFO-add_emp: Emp9-1
+2019-05-27 09:07:11,059-serverLog-INFO-Data Saved
+2019-05-27 09:07:11,059-serverLog-INFO-result is True
+2019-05-27 09:07:11,064-serverLog-INFO-result is {'salaries': [('Emp8-35000', 35000.0), ('Emp3-10000', 10000.0), ('Emp5-8000', 8000.0), ('Emp1-5000', 5000.0), ('Emp4-987', 987.0), ('Emp6-450', 450.0), ('Emp2-365', 365.0), ('Emp7-17', 17.0), ('Emp9-1', 1.0)]}
+2019-05-27 09:07:11,078-serverLog-ERROR-Error: Data not formatted well
+2019-11-05 11:18:13,704-serverLog-INFO-result is True
+2019-11-05 11:18:23,884-serverLog-INFO-result is {'salaries': [('Emp8-35000', 35000.0), ('Emp3-10000', 10000.0), ('Emp5-8000', 8000.0), ('Emp1-5000', 5000.0), ('Emp4-987', 987.0), ('Emp6-450', 450.0), ('Emp2-365', 365.0), ('Emp7-17', 17.0), ('Emp9-1', 1.0)]}
+2020-08-10 17:04:19,142-serverLog-INFO-Got birthday: {'day': '24', 'month': '11', 'year': '1975'}
+2020-08-10 17:04:19,142-serverLog-INFO-Got programs: ['Java', 'snake', 'excel']
+2020-08-10 17:04:19,142-serverLog-INFO-Parsed programs: ['Java', 'snake', 'excel']
+2020-08-10 17:04:19,142-serverLog-INFO-Parsed employee: {'name': 'Elad', 'birthday': {'day': '24', 'month': '11', 'year': '1975'}, 'department': 'marketing', 'salary': '5000', 'programs': ['Java', 'snake', 'excel'], 'address': 'Misgav'}
+2020-08-10 17:04:19,142-serverLog-INFO-Got birthday: {'day': '11', 'month': '2', 'year': '1971'}
+2020-08-10 17:04:19,142-serverLog-INFO-Got programs: ['excel', 'Java', 'C']
+2020-08-10 17:04:19,142-serverLog-INFO-Parsed programs: ['excel', 'Java', 'C']
+2020-08-10 17:04:19,142-serverLog-INFO-Parsed employee: {'name': 'Jonathan', 'birthday': {'day': '11', 'month': '2', 'year': '1971'}, 'department': 'management', 'salary': '365', 'programs': ['excel', 'Java', 'C'], 'address': 'Tel-Aviv'}
+2020-08-10 17:04:19,143-serverLog-INFO-Got birthday: {'day': '19', 'month': '12', 'year': '1972'}
+2020-08-10 17:04:19,143-serverLog-INFO-Got programs: ['excel', 'ASP', 'Java', 'python', 'C']
+2020-08-10 17:04:19,143-serverLog-INFO-Parsed programs: ['excel', 'ASP', 'Java', 'python', 'C']
+2020-08-10 17:04:19,143-serverLog-INFO-Parsed employee: {'name': 'Moshe', 'birthday': {'day': '19', 'month': '12', 'year': '1972'}, 'department': 'qa', 'salary': '10000', 'programs': ['excel', 'ASP', 'Java', 'python', 'C'], 'address': 'Misgav'}
+2020-08-10 17:04:19,143-serverLog-INFO-Got birthday: {'day': '12', 'month': '11', 'year': '1985'}
+2020-08-10 17:04:19,143-serverLog-INFO-Got programs: ['python', 'excel', 'C']
+2020-08-10 17:04:19,143-serverLog-INFO-Parsed programs: ['python', 'excel', 'C']
+2020-08-10 17:04:19,143-serverLog-INFO-Parsed employee: {'name': 'David', 'birthday': {'day': '12', 'month': '11', 'year': '1985'}, 'department': 'marketing', 'salary': '987', 'programs': ['python', 'excel', 'C'], 'address': 'Misgav'}
+2020-08-10 17:04:19,144-serverLog-INFO-Data Saved
+2020-08-10 17:04:19,144-serverLog-INFO-result is True
+2020-08-10 17:04:19,162-serverLog-INFO-Data Saved
+2020-08-10 17:04:19,162-serverLog-INFO-result is True
+2020-08-10 17:04:19,185-serverLog-INFO-Data Saved
+2020-08-10 17:04:19,185-serverLog-INFO-result is True
+2020-08-10 17:04:19,203-serverLog-INFO-Data Saved
+2020-08-10 17:04:19,203-serverLog-INFO-result is True
+2020-08-10 17:04:19,222-serverLog-INFO-Data Saved
+2020-08-10 17:04:19,222-serverLog-INFO-result is True
+2020-08-10 17:04:19,250-serverLog-INFO-Data Saved
+2020-08-10 17:04:19,250-serverLog-INFO-result is True
+2020-08-10 17:04:19,279-serverLog-INFO-Data Saved
+2020-08-10 17:04:19,279-serverLog-INFO-result is True
+2020-08-10 17:04:19,303-serverLog-INFO-Data Saved
+2020-08-10 17:04:19,303-serverLog-INFO-result is True
+2020-08-10 17:06:02,862-serverLog-INFO-Got birthday: 8-7-1981
+2020-08-10 17:06:02,862-serverLog-INFO-Got programs: [Java]
+2020-08-10 17:06:02,863-serverLog-INFO-Parsed programs: ['Java']
+2020-08-10 17:06:02,863-serverLog-INFO-Parsed employee: {'name': 'Dummy_Emp', 'birthday': {'day': '8', 'month': '7', 'year': '1981'}, 'department': 'management', 'salary': '9400', 'programs': ['Java'], 'address': 'Tel-Aviv'}
+2020-08-10 17:06:02,863-serverLog-INFO-add_emp: Dummy_Emp
+2020-08-10 17:06:02,863-serverLog-INFO-Data Saved
+2020-08-10 17:06:02,863-serverLog-INFO-result is True
+2020-08-10 17:06:02,871-serverLog-INFO-Data Saved
+2020-08-10 17:06:02,871-serverLog-INFO-result is True
+2020-08-10 17:06:02,881-serverLog-INFO-Got birthday: {'day': '24', 'month': '11', 'year': '1975'}
+2020-08-10 17:06:02,881-serverLog-INFO-Got programs: ['Java', 'snake', 'excel']
+2020-08-10 17:06:02,881-serverLog-INFO-Parsed programs: ['Java', 'snake', 'excel']
+2020-08-10 17:06:02,881-serverLog-INFO-Parsed employee: {'name': 'Elad', 'birthday': {'day': '24', 'month': '11', 'year': '1975'}, 'department': 'marketing', 'salary': '5000', 'programs': ['Java', 'snake', 'excel'], 'address': 'Misgav'}
+2020-08-10 17:06:02,881-serverLog-INFO-Got birthday: {'day': '11', 'month': '2', 'year': '1971'}
+2020-08-10 17:06:02,881-serverLog-INFO-Got programs: ['excel', 'Java', 'C']
+2020-08-10 17:06:02,881-serverLog-INFO-Parsed programs: ['excel', 'Java', 'C']
+2020-08-10 17:06:02,881-serverLog-INFO-Parsed employee: {'name': 'Jonathan', 'birthday': {'day': '11', 'month': '2', 'year': '1971'}, 'department': 'management', 'salary': '365', 'programs': ['excel', 'Java', 'C'], 'address': 'Tel-Aviv'}
+2020-08-10 17:06:02,881-serverLog-INFO-Got birthday: {'day': '19', 'month': '12', 'year': '1972'}
+2020-08-10 17:06:02,881-serverLog-INFO-Got programs: ['excel', 'ASP', 'Java', 'python', 'C']
+2020-08-10 17:06:02,881-serverLog-INFO-Parsed programs: ['excel', 'ASP', 'Java', 'python', 'C']
+2020-08-10 17:06:02,881-serverLog-INFO-Parsed employee: {'name': 'Moshe', 'birthday': {'day': '19', 'month': '12', 'year': '1972'}, 'department': 'qa', 'salary': '10000', 'programs': ['excel', 'ASP', 'Java', 'python', 'C'], 'address': 'Misgav'}
+2020-08-10 17:06:02,881-serverLog-INFO-Got birthday: {'day': '12', 'month': '11', 'year': '1985'}
+2020-08-10 17:06:02,881-serverLog-INFO-Got programs: ['python', 'excel', 'C']
+2020-08-10 17:06:02,881-serverLog-INFO-Parsed programs: ['python', 'excel', 'C']
+2020-08-10 17:06:02,881-serverLog-INFO-Parsed employee: {'name': 'David', 'birthday': {'day': '12', 'month': '11', 'year': '1985'}, 'department': 'marketing', 'salary': '987', 'programs': ['python', 'excel', 'C'], 'address': 'Misgav'}
+2020-08-10 17:06:02,882-serverLog-INFO-Data Saved
+2020-08-10 17:06:02,882-serverLog-INFO-result is True
+2020-08-10 17:06:02,894-serverLog-INFO-Data Saved
+2020-08-10 17:06:02,894-serverLog-INFO-result is True
+2020-08-10 17:06:02,898-serverLog-INFO-Got birthday: 28-6-1986
+2020-08-10 17:06:02,899-serverLog-INFO-Got programs: [python, snake, ASP]
+2020-08-10 17:06:02,899-serverLog-INFO-Parsed programs: ['python', 'snake', 'ASP']
+2020-08-10 17:06:02,899-serverLog-INFO-Parsed employee: {'name': 'Emp1', 'birthday': {'day': '28', 'month': '6', 'year': '1986'}, 'department': 'dev', 'salary': '27100', 'programs': ['python', 'snake', 'ASP'], 'address': 'Jerusalem'}
+2020-08-10 17:06:02,899-serverLog-INFO-add_emp: Emp1
+2020-08-10 17:06:02,899-serverLog-INFO-Data Saved
+2020-08-10 17:06:02,899-serverLog-INFO-result is True
+2020-08-10 17:06:02,905-serverLog-INFO-Got birthday: 17-1-1977
+2020-08-10 17:06:02,905-serverLog-INFO-Got programs: [python]
+2020-08-10 17:06:02,905-serverLog-INFO-Parsed programs: ['python']
+2020-08-10 17:06:02,905-serverLog-INFO-Parsed employee: {'name': 'Emp2', 'birthday': {'day': '17', 'month': '1', 'year': '1977'}, 'department': 'qa', 'salary': '18400', 'programs': ['python'], 'address': 'Misgav'}
+2020-08-10 17:06:02,905-serverLog-INFO-add_emp: Emp2
+2020-08-10 17:06:02,906-serverLog-INFO-Data Saved
+2020-08-10 17:06:02,906-serverLog-INFO-result is True
+2020-08-10 17:06:02,911-serverLog-INFO-Got birthday: 26-8-1984
+2020-08-10 17:06:02,911-serverLog-INFO-Got programs: [C]
+2020-08-10 17:06:02,911-serverLog-INFO-Parsed programs: ['C']
+2020-08-10 17:06:02,911-serverLog-INFO-Parsed employee: {'name': 'Emp3', 'birthday': {'day': '26', 'month': '8', 'year': '1984'}, 'department': 'marketing', 'salary': '30100', 'programs': ['C'], 'address': 'Tel-Aviv'}
+2020-08-10 17:06:02,911-serverLog-INFO-add_emp: Emp3
+2020-08-10 17:06:02,911-serverLog-INFO-Data Saved
+2020-08-10 17:06:02,912-serverLog-INFO-result is True
+2020-08-10 17:06:02,919-serverLog-INFO-Got birthday: 22-10-1984
+2020-08-10 17:06:02,919-serverLog-INFO-Got programs: [excel, python, snake, Java]
+2020-08-10 17:06:02,919-serverLog-INFO-Parsed programs: ['excel', 'python', 'snake', 'Java']
+2020-08-10 17:06:02,919-serverLog-INFO-Parsed employee: {'name': 'Emp4', 'birthday': {'day': '22', 'month': '10', 'year': '1984'}, 'department': 'dev', 'salary': '28200', 'programs': ['excel', 'python', 'snake', 'Java'], 'address': 'Jerusalem'}
+2020-08-10 17:06:02,919-serverLog-INFO-add_emp: Emp4
+2020-08-10 17:06:02,920-serverLog-INFO-Data Saved
+2020-08-10 17:06:02,920-serverLog-INFO-result is True
+2020-08-10 17:06:02,925-serverLog-INFO-Got birthday: 22-5-1979
+2020-08-10 17:06:02,925-serverLog-INFO-Got programs: [snake, excel, C]
+2020-08-10 17:06:02,925-serverLog-INFO-Parsed programs: ['snake', 'excel', 'C']
+2020-08-10 17:06:02,925-serverLog-INFO-Parsed employee: {'name': 'Emp5', 'birthday': {'day': '22', 'month': '5', 'year': '1979'}, 'department': 'marketing', 'salary': '6600', 'programs': ['snake', 'excel', 'C'], 'address': 'Tel-Aviv'}
+2020-08-10 17:06:02,925-serverLog-INFO-add_emp: Emp5
+2020-08-10 17:06:02,926-serverLog-INFO-Data Saved
+2020-08-10 17:06:02,926-serverLog-INFO-result is True
+2020-08-10 17:06:02,931-serverLog-INFO-Got birthday: 18-1-1992
+2020-08-10 17:06:02,932-serverLog-INFO-Got programs: [ASP, excel, Java]
+2020-08-10 17:06:02,932-serverLog-INFO-Parsed programs: ['ASP', 'excel', 'Java']
+2020-08-10 17:06:02,932-serverLog-INFO-Parsed employee: {'name': 'Emp6', 'birthday': {'day': '18', 'month': '1', 'year': '1992'}, 'department': 'qa', 'salary': '5000', 'programs': ['ASP', 'excel', 'Java'], 'address': 'Jerusalem'}
+2020-08-10 17:06:02,932-serverLog-INFO-add_emp: Emp6
+2020-08-10 17:06:02,932-serverLog-INFO-Data Saved
+2020-08-10 17:06:02,933-serverLog-INFO-result is True
+2020-08-10 17:06:02,938-serverLog-INFO-Got birthday: 10-7-1972
+2020-08-10 17:06:02,940-serverLog-INFO-Got programs: [excel, ASP, python]
+2020-08-10 17:06:02,941-serverLog-INFO-Parsed programs: ['excel', 'ASP', 'python']
+2020-08-10 17:06:02,941-serverLog-INFO-Parsed employee: {'name': 'Emp7', 'birthday': {'day': '10', 'month': '7', 'year': '1972'}, 'department': 'qa', 'salary': '33400', 'programs': ['excel', 'ASP', 'python'], 'address': 'Jerusalem'}
+2020-08-10 17:06:02,941-serverLog-INFO-add_emp: Emp7
+2020-08-10 17:06:02,942-serverLog-INFO-Data Saved
+2020-08-10 17:06:02,942-serverLog-INFO-result is True
+2020-08-10 17:06:02,947-serverLog-INFO-Got birthday: 19-7-2000
+2020-08-10 17:06:02,948-serverLog-INFO-Got programs: [snake, Java]
+2020-08-10 17:06:02,948-serverLog-INFO-Parsed programs: ['snake', 'Java']
+2020-08-10 17:06:02,948-serverLog-INFO-Parsed employee: {'name': 'Emp8', 'birthday': {'day': '19', 'month': '7', 'year': '2000'}, 'department': 'management', 'salary': '9500', 'programs': ['snake', 'Java'], 'address': 'Jerusalem'}
+2020-08-10 17:06:02,948-serverLog-INFO-add_emp: Emp8
+2020-08-10 17:06:02,948-serverLog-INFO-Data Saved
+2020-08-10 17:06:02,948-serverLog-INFO-result is True
+2020-08-10 17:06:02,955-serverLog-INFO-Got birthday: 21-2-1961
+2020-08-10 17:06:02,956-serverLog-INFO-Got programs: [snake, ASP]
+2020-08-10 17:06:02,956-serverLog-INFO-Parsed programs: ['snake', 'ASP']
+2020-08-10 17:06:02,956-serverLog-INFO-Parsed employee: {'name': 'Emp9', 'birthday': {'day': '21', 'month': '2', 'year': '1961'}, 'department': 'qa', 'salary': '14100', 'programs': ['snake', 'ASP'], 'address': 'Misgav'}
+2020-08-10 17:06:02,956-serverLog-INFO-add_emp: Emp9
+2020-08-10 17:06:02,956-serverLog-INFO-Data Saved
+2020-08-10 17:06:02,956-serverLog-INFO-result is True
+2020-08-10 17:06:02,964-serverLog-INFO-Got birthday: 24-1-1993
+2020-08-10 17:06:02,964-serverLog-INFO-Got programs: [ASP]
+2020-08-10 17:06:02,964-serverLog-INFO-Parsed programs: ['ASP']
+2020-08-10 17:06:02,964-serverLog-INFO-Parsed employee: {'name': 'Emp10', 'birthday': {'day': '24', 'month': '1', 'year': '1993'}, 'department': 'management', 'salary': '31700', 'programs': ['ASP'], 'address': 'Misgav'}
+2020-08-10 17:06:02,964-serverLog-INFO-add_emp: Emp10
+2020-08-10 17:06:02,965-serverLog-INFO-Data Saved
+2020-08-10 17:06:02,965-serverLog-INFO-result is True
+2020-08-10 17:06:02,971-serverLog-INFO-Got birthday: 25-11-1962
+2020-08-10 17:06:02,971-serverLog-INFO-Got programs: [excel, C, python]
+2020-08-10 17:06:02,971-serverLog-INFO-Parsed programs: ['excel', 'C', 'python']
+2020-08-10 17:06:02,971-serverLog-INFO-Parsed employee: {'name': 'Wrong-Emp', 'birthday': {'day': '25', 'month': '11', 'year': '1962'}, 'department': 'dev', 'salary': '18000', 'programs': ['excel', 'C', 'python'], 'address': 'Jerusalem'}
+2020-08-10 17:06:02,971-serverLog-INFO-add_emp: Wrong-Emp
+2020-08-10 17:06:02,971-serverLog-INFO-result is Employee limit reached. Cannot add another one.
+2020-08-10 17:06:02,976-serverLog-INFO-Data Saved
+2020-08-10 17:06:02,977-serverLog-INFO-result is True
+2020-08-10 17:06:02,981-serverLog-INFO-Got birthday: 14-5-1972
+2020-08-10 17:06:02,981-serverLog-INFO-Got programs: [excel, python, Java]
+2020-08-10 17:06:02,981-serverLog-INFO-Parsed programs: ['excel', 'python', 'Java']
+2020-08-10 17:06:02,981-serverLog-INFO-Parsed employee: {'name': 'HighSal', 'birthday': {'day': '14', 'month': '5', 'year': '1972'}, 'department': 'marketing', 'salary': '35500', 'programs': ['excel', 'python', 'Java'], 'address': 'Tel-Aviv'}
+2020-08-10 17:06:02,981-serverLog-INFO-add_emp: HighSal
+2020-08-10 17:06:02,981-serverLog-INFO-result is Employee's salary is too high. Cannot add this employee.
+2020-08-10 17:06:02,989-serverLog-INFO-Got birthday: 22-6-1977
+2020-08-10 17:06:02,989-serverLog-INFO-Got programs: [python, ASP, Java]
+2020-08-10 17:06:02,989-serverLog-INFO-Parsed programs: ['python', 'ASP', 'Java']
+2020-08-10 17:06:02,989-serverLog-INFO-Parsed employee: {'name': 'NormalSal', 'birthday': {'day': '22', 'month': '6', 'year': '1977'}, 'department': 'management', 'salary': '15500', 'programs': ['python', 'ASP', 'Java'], 'address': 'Jerusalem'}
+2020-08-10 17:06:02,989-serverLog-INFO-add_emp: NormalSal
+2020-08-10 17:06:02,990-serverLog-INFO-Data Saved
+2020-08-10 17:06:02,990-serverLog-INFO-result is True
+2020-08-10 17:06:02,996-serverLog-INFO-Got birthday: 3-8-1995
+2020-08-10 17:06:02,997-serverLog-INFO-Got programs: [excel, C, ASP]
+2020-08-10 17:06:02,998-serverLog-INFO-Parsed programs: ['excel', 'C', 'ASP']
+2020-08-10 17:06:02,998-serverLog-INFO-Parsed employee: {'name': 'Other_Emp', 'birthday': {'day': '3', 'month': '8', 'year': '1995'}, 'department': 'qa', 'salary': '1500', 'programs': ['excel', 'C', 'ASP'], 'address': 'Misgav'}
+2020-08-10 17:06:02,998-serverLog-INFO-add_emp: Other_Emp
+2020-08-10 17:06:02,999-serverLog-INFO-Data Saved
+2020-08-10 17:06:02,999-serverLog-INFO-result is True
+2020-08-10 17:06:03,005-serverLog-INFO-result is Salary too high
+2020-08-10 17:06:03,010-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,010-serverLog-INFO-result is Employee NormalSal's salary would exceed. Therefore salary will not update. (Other employees' salary was updated.) 
+2020-08-10 17:06:03,017-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,017-serverLog-INFO-result is True
+2020-08-10 17:06:03,024-serverLog-INFO-Got birthday: 01-01-1953
+2020-08-10 17:06:03,024-serverLog-INFO-Got programs: [snake]
+2020-08-10 17:06:03,025-serverLog-INFO-Parsed programs: ['snake']
+2020-08-10 17:06:03,025-serverLog-INFO-Parsed employee: {'name': 'OldAge', 'birthday': {'day': '01', 'month': '01', 'year': '1953'}, 'department': 'qa', 'salary': '7300', 'programs': ['snake'], 'address': 'Jerusalem'}
+2020-08-10 17:06:03,025-serverLog-INFO-add_emp: OldAge
+2020-08-10 17:06:03,025-serverLog-INFO-result is Note employee's age. Consider retiring this employee.
+2020-08-10 17:06:03,032-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,032-serverLog-INFO-result is True
+2020-08-10 17:06:03,037-serverLog-INFO-Got birthday: 01-01-2000
+2020-08-10 17:06:03,037-serverLog-INFO-Got programs: [python, C]
+2020-08-10 17:06:03,037-serverLog-INFO-Parsed programs: ['python', 'C']
+2020-08-10 17:06:03,037-serverLog-INFO-Parsed employee: {'name': 'Emp_Jan', 'birthday': {'day': '01', 'month': '01', 'year': '2000'}, 'department': 'dev', 'salary': '34500', 'programs': ['python', 'C'], 'address': 'Tel-Aviv'}
+2020-08-10 17:06:03,037-serverLog-INFO-add_emp: Emp_Jan
+2020-08-10 17:06:03,037-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,037-serverLog-INFO-result is True
+2020-08-10 17:06:03,041-serverLog-INFO-Got birthday: 01-02-2000
+2020-08-10 17:06:03,042-serverLog-INFO-Got programs: [ASP]
+2020-08-10 17:06:03,042-serverLog-INFO-Parsed programs: ['ASP']
+2020-08-10 17:06:03,042-serverLog-INFO-Parsed employee: {'name': 'Emp_Feb', 'birthday': {'day': '01', 'month': '02', 'year': '2000'}, 'department': 'marketing', 'salary': '21800', 'programs': ['ASP'], 'address': 'Jerusalem'}
+2020-08-10 17:06:03,042-serverLog-INFO-add_emp: Emp_Feb
+2020-08-10 17:06:03,042-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,042-serverLog-INFO-result is True
+2020-08-10 17:06:03,048-serverLog-INFO-Got birthday: 01-03-2000
+2020-08-10 17:06:03,049-serverLog-INFO-Got programs: [Java, ASP, C]
+2020-08-10 17:06:03,050-serverLog-INFO-Parsed programs: ['Java', 'ASP', 'C']
+2020-08-10 17:06:03,050-serverLog-INFO-Parsed employee: {'name': 'Emp_Mar', 'birthday': {'day': '01', 'month': '03', 'year': '2000'}, 'department': 'management', 'salary': '28100', 'programs': ['Java', 'ASP', 'C'], 'address': 'Tel-Aviv'}
+2020-08-10 17:06:03,050-serverLog-INFO-add_emp: Emp_Mar
+2020-08-10 17:06:03,050-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,050-serverLog-INFO-result is True
+2020-08-10 17:06:03,055-serverLog-INFO-Got birthday: 01-04-2000
+2020-08-10 17:06:03,055-serverLog-INFO-Got programs: [snake, ASP]
+2020-08-10 17:06:03,055-serverLog-INFO-Parsed programs: ['snake', 'ASP']
+2020-08-10 17:06:03,056-serverLog-INFO-Parsed employee: {'name': 'Emp_Apr', 'birthday': {'day': '01', 'month': '04', 'year': '2000'}, 'department': 'management', 'salary': '8100', 'programs': ['snake', 'ASP'], 'address': 'Tel-Aviv'}
+2020-08-10 17:06:03,056-serverLog-INFO-add_emp: Emp_Apr
+2020-08-10 17:06:03,056-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,056-serverLog-INFO-result is True
+2020-08-10 17:06:03,061-serverLog-INFO-Got birthday: 01-05-2000
+2020-08-10 17:06:03,061-serverLog-INFO-Got programs: [C, excel]
+2020-08-10 17:06:03,061-serverLog-INFO-Parsed programs: ['C', 'excel']
+2020-08-10 17:06:03,061-serverLog-INFO-Parsed employee: {'name': 'Emp_May', 'birthday': {'day': '01', 'month': '05', 'year': '2000'}, 'department': 'management', 'salary': '29200', 'programs': ['C', 'excel'], 'address': 'Tel-Aviv'}
+2020-08-10 17:06:03,061-serverLog-INFO-add_emp: Emp_May
+2020-08-10 17:06:03,065-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,066-serverLog-INFO-result is True
+2020-08-10 17:06:03,071-serverLog-INFO-Got birthday: 01-06-2000
+2020-08-10 17:06:03,071-serverLog-INFO-Got programs: [python, C]
+2020-08-10 17:06:03,071-serverLog-INFO-Parsed programs: ['python', 'C']
+2020-08-10 17:06:03,071-serverLog-INFO-Parsed employee: {'name': 'Emp_Jun', 'birthday': {'day': '01', 'month': '06', 'year': '2000'}, 'department': 'marketing', 'salary': '16700', 'programs': ['python', 'C'], 'address': 'Tel-Aviv'}
+2020-08-10 17:06:03,071-serverLog-INFO-add_emp: Emp_Jun
+2020-08-10 17:06:03,072-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,072-serverLog-INFO-result is True
+2020-08-10 17:06:03,075-serverLog-INFO-Got birthday: 01-07-2000
+2020-08-10 17:06:03,076-serverLog-INFO-Got programs: [C, excel, ASP, Java]
+2020-08-10 17:06:03,076-serverLog-INFO-Parsed programs: ['C', 'excel', 'ASP', 'Java']
+2020-08-10 17:06:03,076-serverLog-INFO-Parsed employee: {'name': 'Emp_Jul', 'birthday': {'day': '01', 'month': '07', 'year': '2000'}, 'department': 'management', 'salary': '17400', 'programs': ['C', 'excel', 'ASP', 'Java'], 'address': 'Misgav'}
+2020-08-10 17:06:03,076-serverLog-INFO-add_emp: Emp_Jul
+2020-08-10 17:06:03,076-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,076-serverLog-INFO-result is True
+2020-08-10 17:06:03,080-serverLog-INFO-Got birthday: 01-08-2000
+2020-08-10 17:06:03,080-serverLog-INFO-Got programs: [snake, ASP, python]
+2020-08-10 17:06:03,080-serverLog-INFO-Parsed programs: ['snake', 'ASP', 'python']
+2020-08-10 17:06:03,080-serverLog-INFO-Parsed employee: {'name': 'Emp_Aug', 'birthday': {'day': '01', 'month': '08', 'year': '2000'}, 'department': 'management', 'salary': '17600', 'programs': ['snake', 'ASP', 'python'], 'address': 'Tel-Aviv'}
+2020-08-10 17:06:03,080-serverLog-INFO-add_emp: Emp_Aug
+2020-08-10 17:06:03,080-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,080-serverLog-INFO-result is True
+2020-08-10 17:06:03,088-serverLog-INFO-Got birthday: 01-09-2000
+2020-08-10 17:06:03,088-serverLog-INFO-Got programs: [excel, Java]
+2020-08-10 17:06:03,088-serverLog-INFO-Parsed programs: ['excel', 'Java']
+2020-08-10 17:06:03,088-serverLog-INFO-Parsed employee: {'name': 'Emp_Sep', 'birthday': {'day': '01', 'month': '09', 'year': '2000'}, 'department': 'qa', 'salary': '11200', 'programs': ['excel', 'Java'], 'address': 'Jerusalem'}
+2020-08-10 17:06:03,088-serverLog-INFO-add_emp: Emp_Sep
+2020-08-10 17:06:03,089-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,089-serverLog-INFO-result is True
+2020-08-10 17:06:03,100-serverLog-INFO-Got birthday: 01-01-2000
+2020-08-10 17:06:03,101-serverLog-INFO-Got programs: [python, Java]
+2020-08-10 17:06:03,101-serverLog-INFO-Parsed programs: ['python', 'Java']
+2020-08-10 17:06:03,101-serverLog-INFO-Parsed employee: {'name': 'Emp2_Jan', 'birthday': {'day': '01', 'month': '01', 'year': '2000'}, 'department': 'marketing', 'salary': '25100', 'programs': ['python', 'Java'], 'address': 'Misgav'}
+2020-08-10 17:06:03,101-serverLog-INFO-add_emp: Emp2_Jan
+2020-08-10 17:06:03,101-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,102-serverLog-INFO-result is True
+2020-08-10 17:06:03,110-serverLog-INFO-result is ['Emp_Jan', 'Emp2_Jan']
+2020-08-10 17:06:03,119-serverLog-INFO-result is ['Emp_Feb']
+2020-08-10 17:06:03,126-serverLog-INFO-result is ['Emp_Mar']
+2020-08-10 17:06:03,134-serverLog-INFO-result is ['Emp_Apr']
+2020-08-10 17:06:03,137-serverLog-INFO-result is ['Emp_May']
+2020-08-10 17:06:03,142-serverLog-INFO-result is ['Emp_Jun']
+2020-08-10 17:06:03,148-serverLog-INFO-result is ['Emp_Jul']
+2020-08-10 17:06:03,152-serverLog-INFO-result is ['Emp_Aug']
+2020-08-10 17:06:03,156-serverLog-INFO-result is ['Emp_Sep']
+2020-08-10 17:06:03,169-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,169-serverLog-INFO-result is True
+2020-08-10 17:06:03,176-serverLog-INFO-Got birthday: 24-4-1980
+2020-08-10 17:06:03,176-serverLog-INFO-Got programs: [python, C, Java, excel]
+2020-08-10 17:06:03,176-serverLog-INFO-Parsed programs: ['python', 'C', 'Java', 'excel']
+2020-08-10 17:06:03,176-serverLog-INFO-Parsed employee: {'name': 'Emp1', 'birthday': {'day': '24', 'month': '4', 'year': '1980'}, 'department': 'management', 'salary': '31800', 'programs': ['python', 'C', 'Java', 'excel'], 'address': 'Tel-Aviv'}
+2020-08-10 17:06:03,176-serverLog-INFO-add_emp: Emp1
+2020-08-10 17:06:03,177-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,177-serverLog-INFO-result is True
+2020-08-10 17:06:03,182-serverLog-INFO-Got birthday: 25-7-1989
+2020-08-10 17:06:03,182-serverLog-INFO-Got programs: [python]
+2020-08-10 17:06:03,182-serverLog-INFO-Parsed programs: ['python']
+2020-08-10 17:06:03,182-serverLog-INFO-Parsed employee: {'name': 'Emp2', 'birthday': {'day': '25', 'month': '7', 'year': '1989'}, 'department': 'qa', 'salary': '25000', 'programs': ['python'], 'address': 'Jerusalem'}
+2020-08-10 17:06:03,183-serverLog-INFO-add_emp: Emp2
+2020-08-10 17:06:03,183-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,183-serverLog-INFO-result is True
+2020-08-10 17:06:03,187-serverLog-INFO-Got birthday: 4-10-1960
+2020-08-10 17:06:03,188-serverLog-INFO-Got programs: [Java]
+2020-08-10 17:06:03,188-serverLog-INFO-Parsed programs: ['Java']
+2020-08-10 17:06:03,188-serverLog-INFO-Parsed employee: {'name': 'Emp3', 'birthday': {'day': '4', 'month': '10', 'year': '1960'}, 'department': 'management', 'salary': '11700', 'programs': ['Java'], 'address': 'Misgav'}
+2020-08-10 17:06:03,188-serverLog-INFO-add_emp: Emp3
+2020-08-10 17:06:03,188-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,188-serverLog-INFO-result is True
+2020-08-10 17:06:03,194-serverLog-INFO-Got birthday: 18-12-1984
+2020-08-10 17:06:03,194-serverLog-INFO-Got programs: [python, excel]
+2020-08-10 17:06:03,194-serverLog-INFO-Parsed programs: ['python', 'excel']
+2020-08-10 17:06:03,194-serverLog-INFO-Parsed employee: {'name': 'Emp4', 'birthday': {'day': '18', 'month': '12', 'year': '1984'}, 'department': 'qa', 'salary': '22200', 'programs': ['python', 'excel'], 'address': 'Misgav'}
+2020-08-10 17:06:03,194-serverLog-INFO-add_emp: Emp4
+2020-08-10 17:06:03,195-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,195-serverLog-INFO-result is True
+2020-08-10 17:06:03,200-serverLog-INFO-Got birthday: 13-1-1975
+2020-08-10 17:06:03,200-serverLog-INFO-Got programs: [snake, excel]
+2020-08-10 17:06:03,200-serverLog-INFO-Parsed programs: ['snake', 'excel']
+2020-08-10 17:06:03,201-serverLog-INFO-Parsed employee: {'name': 'Emp5', 'birthday': {'day': '13', 'month': '1', 'year': '1975'}, 'department': 'qa', 'salary': '11500', 'programs': ['snake', 'excel'], 'address': 'Misgav'}
+2020-08-10 17:06:03,201-serverLog-INFO-add_emp: Emp5
+2020-08-10 17:06:03,201-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,201-serverLog-INFO-result is True
+2020-08-10 17:06:03,207-serverLog-INFO-Got birthday: 27-6-1969
+2020-08-10 17:06:03,207-serverLog-INFO-Got programs: [excel, C, snake]
+2020-08-10 17:06:03,207-serverLog-INFO-Parsed programs: ['excel', 'C', 'snake']
+2020-08-10 17:06:03,207-serverLog-INFO-Parsed employee: {'name': 'Emp6', 'birthday': {'day': '27', 'month': '6', 'year': '1969'}, 'department': 'qa', 'salary': '26800', 'programs': ['excel', 'C', 'snake'], 'address': 'Misgav'}
+2020-08-10 17:06:03,207-serverLog-INFO-add_emp: Emp6
+2020-08-10 17:06:03,208-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,208-serverLog-INFO-result is True
+2020-08-10 17:06:03,215-serverLog-INFO-Got birthday: 16-5-1992
+2020-08-10 17:06:03,215-serverLog-INFO-Got programs: [C, python, Java, ASP]
+2020-08-10 17:06:03,215-serverLog-INFO-Parsed programs: ['C', 'python', 'Java', 'ASP']
+2020-08-10 17:06:03,215-serverLog-INFO-Parsed employee: {'name': 'Emp7', 'birthday': {'day': '16', 'month': '5', 'year': '1992'}, 'department': 'dev', 'salary': '28900', 'programs': ['C', 'python', 'Java', 'ASP'], 'address': 'Misgav'}
+2020-08-10 17:06:03,215-serverLog-INFO-add_emp: Emp7
+2020-08-10 17:06:03,215-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,215-serverLog-INFO-result is True
+2020-08-10 17:06:03,221-serverLog-INFO-Got birthday: 11-11-1968
+2020-08-10 17:06:03,221-serverLog-INFO-Got programs: [Java, C, ASP]
+2020-08-10 17:06:03,221-serverLog-INFO-Parsed programs: ['Java', 'C', 'ASP']
+2020-08-10 17:06:03,221-serverLog-INFO-Parsed employee: {'name': 'Emp8', 'birthday': {'day': '11', 'month': '11', 'year': '1968'}, 'department': 'management', 'salary': '23100', 'programs': ['Java', 'C', 'ASP'], 'address': 'Misgav'}
+2020-08-10 17:06:03,221-serverLog-INFO-add_emp: Emp8
+2020-08-10 17:06:03,222-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,222-serverLog-INFO-result is True
+2020-08-10 17:06:03,227-serverLog-INFO-Got birthday: 14-7-1976
+2020-08-10 17:06:03,228-serverLog-INFO-Got programs: [excel, Java, C]
+2020-08-10 17:06:03,228-serverLog-INFO-Parsed programs: ['excel', 'Java', 'C']
+2020-08-10 17:06:03,228-serverLog-INFO-Parsed employee: {'name': 'Emp9', 'birthday': {'day': '14', 'month': '7', 'year': '1976'}, 'department': 'dev', 'salary': '32600', 'programs': ['excel', 'Java', 'C'], 'address': 'Misgav'}
+2020-08-10 17:06:03,228-serverLog-INFO-add_emp: Emp9
+2020-08-10 17:06:03,229-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,229-serverLog-INFO-result is True
+2020-08-10 17:06:03,234-serverLog-INFO-Got birthday: 17-11-1974
+2020-08-10 17:06:03,234-serverLog-INFO-Got programs: [python]
+2020-08-10 17:06:03,234-serverLog-INFO-Parsed programs: ['python']
+2020-08-10 17:06:03,234-serverLog-INFO-Parsed employee: {'name': 'Emp10', 'birthday': {'day': '17', 'month': '11', 'year': '1974'}, 'department': 'marketing', 'salary': '19200', 'programs': ['python'], 'address': 'Misgav'}
+2020-08-10 17:06:03,234-serverLog-INFO-add_emp: Emp10
+2020-08-10 17:06:03,235-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,235-serverLog-INFO-result is True
+2020-08-10 17:06:03,247-serverLog-INFO-Delete Emp: Emp3
+2020-08-10 17:06:03,247-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,247-serverLog-INFO-result is True
+2020-08-10 17:06:03,262-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,262-serverLog-INFO-result is True
+2020-08-10 17:06:03,269-serverLog-INFO-Got birthday: 11-8-1974
+2020-08-10 17:06:03,269-serverLog-INFO-Got programs: [Java, python]
+2020-08-10 17:06:03,269-serverLog-INFO-Parsed programs: ['Java', 'python']
+2020-08-10 17:06:03,269-serverLog-INFO-Parsed employee: {'name': 'David', 'birthday': {'day': '11', 'month': '8', 'year': '1974'}, 'department': 'dev', 'salary': '26200', 'programs': ['Java', 'python'], 'address': 'Tel-Aviv'}
+2020-08-10 17:06:03,269-serverLog-INFO-add_emp: David
+2020-08-10 17:06:03,270-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,270-serverLog-INFO-result is True
+2020-08-10 17:06:03,275-serverLog-INFO-Got birthday: 11-8-1974
+2020-08-10 17:06:03,275-serverLog-INFO-Got programs: [Java, python]
+2020-08-10 17:06:03,275-serverLog-INFO-Parsed programs: ['Java', 'python']
+2020-08-10 17:06:03,275-serverLog-INFO-Parsed employee: {'name': 'David', 'birthday': {'day': '11', 'month': '8', 'year': '1974'}, 'department': 'dev', 'salary': '26200', 'programs': ['Java', 'python'], 'address': 'Tel-Aviv'}
+2020-08-10 17:06:03,276-serverLog-INFO-add_emp: David
+2020-08-10 17:06:03,276-serverLog-INFO-result is Employee exists
+2020-08-10 17:06:03,281-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,281-serverLog-INFO-result is True
+2020-08-10 17:06:03,285-serverLog-INFO-Got birthday: 18-7-1992
+2020-08-10 17:06:03,285-serverLog-INFO-Got programs: [ASP, C, excel]
+2020-08-10 17:06:03,285-serverLog-INFO-Parsed programs: ['ASP', 'C', 'excel']
+2020-08-10 17:06:03,286-serverLog-INFO-Parsed employee: {'name': 'Emp1-5000', 'birthday': {'day': '18', 'month': '7', 'year': '1992'}, 'department': 'management', 'salary': '5000', 'programs': ['ASP', 'C', 'excel'], 'address': 'Jerusalem'}
+2020-08-10 17:06:03,286-serverLog-INFO-add_emp: Emp1-5000
+2020-08-10 17:06:03,286-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,286-serverLog-INFO-result is True
+2020-08-10 17:06:03,292-serverLog-INFO-Got birthday: 10-6-1987
+2020-08-10 17:06:03,293-serverLog-INFO-Got programs: [snake, Java, C, python]
+2020-08-10 17:06:03,293-serverLog-INFO-Parsed programs: ['snake', 'Java', 'C', 'python']
+2020-08-10 17:06:03,293-serverLog-INFO-Parsed employee: {'name': 'Emp2-365', 'birthday': {'day': '10', 'month': '6', 'year': '1987'}, 'department': 'dev', 'salary': '365', 'programs': ['snake', 'Java', 'C', 'python'], 'address': 'Jerusalem'}
+2020-08-10 17:06:03,293-serverLog-INFO-add_emp: Emp2-365
+2020-08-10 17:06:03,294-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,294-serverLog-INFO-result is True
+2020-08-10 17:06:03,299-serverLog-INFO-Got birthday: 2-12-1964
+2020-08-10 17:06:03,299-serverLog-INFO-Got programs: [ASP, Java]
+2020-08-10 17:06:03,300-serverLog-INFO-Parsed programs: ['ASP', 'Java']
+2020-08-10 17:06:03,300-serverLog-INFO-Parsed employee: {'name': 'Emp3-10000', 'birthday': {'day': '2', 'month': '12', 'year': '1964'}, 'department': 'dev', 'salary': '10000', 'programs': ['ASP', 'Java'], 'address': 'Tel-Aviv'}
+2020-08-10 17:06:03,300-serverLog-INFO-add_emp: Emp3-10000
+2020-08-10 17:06:03,300-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,300-serverLog-INFO-result is True
+2020-08-10 17:06:03,304-serverLog-INFO-Got birthday: 14-5-1967
+2020-08-10 17:06:03,305-serverLog-INFO-Got programs: [python]
+2020-08-10 17:06:03,305-serverLog-INFO-Parsed programs: ['python']
+2020-08-10 17:06:03,305-serverLog-INFO-Parsed employee: {'name': 'Emp4-987', 'birthday': {'day': '14', 'month': '5', 'year': '1967'}, 'department': 'marketing', 'salary': '987', 'programs': ['python'], 'address': 'Misgav'}
+2020-08-10 17:06:03,305-serverLog-INFO-add_emp: Emp4-987
+2020-08-10 17:06:03,305-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,305-serverLog-INFO-result is True
+2020-08-10 17:06:03,312-serverLog-INFO-Got birthday: 17-9-1985
+2020-08-10 17:06:03,313-serverLog-INFO-Got programs: [python]
+2020-08-10 17:06:03,313-serverLog-INFO-Parsed programs: ['python']
+2020-08-10 17:06:03,313-serverLog-INFO-Parsed employee: {'name': 'Emp5-8000', 'birthday': {'day': '17', 'month': '9', 'year': '1985'}, 'department': 'qa', 'salary': '8000', 'programs': ['python'], 'address': 'Tel-Aviv'}
+2020-08-10 17:06:03,313-serverLog-INFO-add_emp: Emp5-8000
+2020-08-10 17:06:03,313-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,313-serverLog-INFO-result is True
+2020-08-10 17:06:03,322-serverLog-INFO-Got birthday: 24-5-1955
+2020-08-10 17:06:03,322-serverLog-INFO-Got programs: [excel, python]
+2020-08-10 17:06:03,322-serverLog-INFO-Parsed programs: ['excel', 'python']
+2020-08-10 17:06:03,322-serverLog-INFO-Parsed employee: {'name': 'Emp6-450', 'birthday': {'day': '24', 'month': '5', 'year': '1955'}, 'department': 'marketing', 'salary': '450', 'programs': ['excel', 'python'], 'address': 'Jerusalem'}
+2020-08-10 17:06:03,322-serverLog-INFO-add_emp: Emp6-450
+2020-08-10 17:06:03,323-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,323-serverLog-INFO-result is True
+2020-08-10 17:06:03,331-serverLog-INFO-Got birthday: 12-7-1963
+2020-08-10 17:06:03,331-serverLog-INFO-Got programs: [C]
+2020-08-10 17:06:03,331-serverLog-INFO-Parsed programs: ['C']
+2020-08-10 17:06:03,331-serverLog-INFO-Parsed employee: {'name': 'Emp7-17', 'birthday': {'day': '12', 'month': '7', 'year': '1963'}, 'department': 'dev', 'salary': '17', 'programs': ['C'], 'address': 'Jerusalem'}
+2020-08-10 17:06:03,331-serverLog-INFO-add_emp: Emp7-17
+2020-08-10 17:06:03,331-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,331-serverLog-INFO-result is True
+2020-08-10 17:06:03,335-serverLog-INFO-Got birthday: 6-11-1969
+2020-08-10 17:06:03,335-serverLog-INFO-Got programs: [ASP, snake, Java, C]
+2020-08-10 17:06:03,335-serverLog-INFO-Parsed programs: ['ASP', 'snake', 'Java', 'C']
+2020-08-10 17:06:03,335-serverLog-INFO-Parsed employee: {'name': 'Emp8-35000', 'birthday': {'day': '6', 'month': '11', 'year': '1969'}, 'department': 'dev', 'salary': '35000', 'programs': ['ASP', 'snake', 'Java', 'C'], 'address': 'Tel-Aviv'}
+2020-08-10 17:06:03,336-serverLog-INFO-add_emp: Emp8-35000
+2020-08-10 17:06:03,336-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,336-serverLog-INFO-result is True
+2020-08-10 17:06:03,343-serverLog-INFO-Got birthday: 28-10-1974
+2020-08-10 17:06:03,343-serverLog-INFO-Got programs: [ASP, excel]
+2020-08-10 17:06:03,343-serverLog-INFO-Parsed programs: ['ASP', 'excel']
+2020-08-10 17:06:03,343-serverLog-INFO-Parsed employee: {'name': 'Emp9-1', 'birthday': {'day': '28', 'month': '10', 'year': '1974'}, 'department': 'dev', 'salary': '1', 'programs': ['ASP', 'excel'], 'address': 'Misgav'}
+2020-08-10 17:06:03,343-serverLog-INFO-add_emp: Emp9-1
+2020-08-10 17:06:03,343-serverLog-INFO-Data Saved
+2020-08-10 17:06:03,343-serverLog-INFO-result is True
+2020-08-10 17:06:03,347-serverLog-INFO-result is {'salaries': [('Emp8-35000', 35000.0), ('Emp3-10000', 10000.0), ('Emp5-8000', 8000.0), ('Emp1-5000', 5000.0), ('Emp4-987', 987.0), ('Emp6-450', 450.0), ('Emp2-365', 365.0), ('Emp7-17', 17.0), ('Emp9-1', 1.0)]}
+2020-08-10 17:06:03,360-serverLog-ERROR-Error: Data not formatted well
+2020-08-24 09:44:35,201-serverLog-INFO-Got birthday: {'month': '14', 'year': '1989', 'day': '39'}
+2020-08-24 09:44:35,201-serverLog-INFO-Got programs: ['pyhton', 'java']
+2020-08-24 09:44:35,201-serverLog-INFO-Parsed programs: ['pyhton', 'java']
+2020-08-24 09:44:35,201-serverLog-INFO-Parsed employee: {'name': 'avi', 'birthday': {'day': '39', 'month': '14', 'year': '1989'}, 'department': 'QA', 'salary': '12000', 'programs': ['pyhton', 'java'], 'address': 'Tivon'}
+2020-08-24 09:44:35,201-serverLog-INFO-add_emp: avi
+2020-08-24 09:44:35,202-serverLog-INFO-Data Saved
+2020-08-24 09:44:35,202-serverLog-INFO-result is True
+2020-08-24 09:44:44,948-serverLog-INFO-Got birthday: {'month': '11', 'year': '1989', 'day': '25'}
+2020-08-24 09:44:44,948-serverLog-INFO-Got programs: ['pyhton', 'java']
+2020-08-24 09:44:44,948-serverLog-INFO-Parsed programs: ['pyhton', 'java']
+2020-08-24 09:44:44,948-serverLog-INFO-Parsed employee: {'name': 'avi', 'birthday': {'day': '25', 'month': '11', 'year': '1989'}, 'department': 'QA', 'salary': '12000', 'programs': ['pyhton', 'java'], 'address': 'Tivon'}
+2020-08-24 09:44:44,948-serverLog-INFO-add_emp: avi
+2020-08-24 09:44:44,948-serverLog-INFO-result is Employee exists
+2020-08-24 09:44:54,024-serverLog-INFO-Delete Emp: avi
+2020-08-24 09:44:54,025-serverLog-INFO-Data Saved
+2020-08-24 09:44:54,025-serverLog-INFO-result is True
+2020-08-24 09:44:57,501-serverLog-INFO-Got birthday: {'month': '11', 'year': '1989', 'day': '25'}
+2020-08-24 09:44:57,502-serverLog-INFO-Got programs: ['pyhton', 'java']
+2020-08-24 09:44:57,502-serverLog-INFO-Parsed programs: ['pyhton', 'java']
+2020-08-24 09:44:57,502-serverLog-INFO-Parsed employee: {'name': 'avi', 'birthday': {'day': '25', 'month': '11', 'year': '1989'}, 'department': 'QA', 'salary': '12000', 'programs': ['pyhton', 'java'], 'address': 'Tivon'}
+2020-08-24 09:44:57,502-serverLog-INFO-add_emp: avi
+2020-08-24 09:44:57,502-serverLog-INFO-Data Saved
+2020-08-24 09:44:57,502-serverLog-INFO-result is True
+2020-08-24 09:51:25,116-serverLog-INFO-Delete Emp: avi
+2020-08-24 09:51:25,117-serverLog-INFO-Data Saved
+2020-08-24 09:51:25,117-serverLog-INFO-result is True
+2020-09-15 15:14:50,760-serverLog-INFO-Got birthday: {'month': '11', 'year': '1989', 'day': '25'}
+2020-09-15 15:14:50,761-serverLog-INFO-Got programs: ['pyhton', 'java']
+2020-09-15 15:14:50,761-serverLog-INFO-Parsed programs: ['pyhton', 'java']
+2020-09-15 15:14:50,761-serverLog-INFO-Parsed employee: {'name': 'avi', 'birthday': {'day': '25', 'month': '11', 'year': '1989'}, 'department': 'QA', 'salary': '12000', 'programs': ['pyhton', 'java'], 'address': 'Tivon'}
+2020-09-15 15:14:50,761-serverLog-INFO-add_emp: avi
+2020-09-15 15:14:50,761-serverLog-INFO-Data Saved
+2020-09-15 15:14:50,761-serverLog-INFO-result is True
+2020-09-15 15:14:56,647-serverLog-INFO-Delete Emp: avi
+2020-09-15 15:14:56,647-serverLog-INFO-Data Saved
+2020-09-15 15:14:56,647-serverLog-INFO-result is True
+2020-09-15 15:17:10,279-serverLog-INFO-result is Employee was not found
+2020-09-15 15:17:16,721-serverLog-INFO-Got birthday: {'month': '11', 'year': '1989', 'day': '25'}
+2020-09-15 15:17:16,722-serverLog-INFO-Got programs: ['pyhton', 'java']
+2020-09-15 15:17:16,722-serverLog-INFO-Parsed programs: ['pyhton', 'java']
+2020-09-15 15:17:16,722-serverLog-INFO-Parsed employee: {'name': 'avi', 'birthday': {'day': '25', 'month': '11', 'year': '1989'}, 'department': 'QA', 'salary': '12000', 'programs': ['pyhton', 'java'], 'address': 'Tivon'}
+2020-09-15 15:17:16,722-serverLog-INFO-add_emp: avi
+2020-09-15 15:17:16,723-serverLog-INFO-Data Saved
+2020-09-15 15:17:16,724-serverLog-INFO-result is True
+2020-09-15 15:17:19,003-serverLog-INFO-Got birthday: {'month': '11', 'year': '1989', 'day': '25'}
+2020-09-15 15:17:19,009-serverLog-INFO-Got programs: ['pyhton', 'java']
+2020-09-15 15:17:19,010-serverLog-INFO-Parsed programs: ['pyhton', 'java']
+2020-09-15 15:17:19,010-serverLog-INFO-Parsed employee: {'name': 'avi', 'birthday': {'day': '25', 'month': '11', 'year': '1989'}, 'department': 'QA', 'salary': '12000', 'programs': ['pyhton', 'java'], 'address': 'Tivon'}
+2020-09-15 15:17:19,010-serverLog-INFO-add_emp: avi
+2020-09-15 15:17:19,010-serverLog-INFO-result is Employee exists
+2020-09-15 15:17:25,652-serverLog-INFO-Data Saved
+2020-09-15 15:17:25,652-serverLog-INFO-result is True
+2020-09-15 15:18:00,954-serverLog-INFO-Data Saved
+2020-09-15 15:18:00,954-serverLog-INFO-result is Employee Emp8-35000's salary would exceed. Therefore salary will not update. (Other employees' salary was updated.) 
+2020-09-15 15:18:20,721-serverLog-INFO-Delete Emp: Emp8-35000
+2020-09-15 15:18:20,727-serverLog-INFO-Data Saved
+2020-09-15 15:18:20,727-serverLog-INFO-result is True
+2020-09-15 15:18:26,857-serverLog-INFO-Data Saved
+2020-09-15 15:18:26,858-serverLog-INFO-result is True
+2020-09-15 15:18:46,635-serverLog-INFO-result is ['Emp2-365']
+2020-09-15 15:18:51,920-serverLog-INFO-result is Employee was not found
+2020-09-15 15:18:59,784-serverLog-INFO-Data Saved
+2020-09-15 15:18:59,784-serverLog-INFO-result is True
+2020-09-15 15:19:10,088-serverLog-INFO-Data Saved
+2020-09-15 15:19:10,088-serverLog-INFO-result is True
+2020-09-15 15:19:13,086-serverLog-INFO-Data Saved
+2020-09-15 15:19:13,086-serverLog-INFO-result is True
+2020-09-15 15:21:29,807-serverLog-INFO-Data Saved
+2020-09-15 15:21:29,808-serverLog-INFO-result is True
+2020-09-15 15:21:56,768-serverLog-INFO-Got birthday: {'month': '11', 'year': '1989', 'day': '25'}
+2020-09-15 15:21:56,769-serverLog-INFO-Got programs: ['pyhton', 'java']
+2020-09-15 15:21:56,769-serverLog-INFO-Parsed programs: ['pyhton', 'java']
+2020-09-15 15:21:56,769-serverLog-INFO-Parsed employee: {'name': 'avi', 'birthday': {'day': '25', 'month': '11', 'year': '1989'}, 'department': 'QA', 'salary': '12000', 'programs': ['pyhton', 'java'], 'address': 'Tivon'}
+2020-09-15 15:21:56,770-serverLog-INFO-add_emp: avi
+2020-09-15 15:21:56,773-serverLog-INFO-Data Saved
+2020-09-15 15:21:56,773-serverLog-INFO-result is True
+2020-09-15 15:22:00,359-serverLog-INFO-Delete Emp: avi
+2020-09-15 15:22:00,371-serverLog-INFO-Data Saved
+2020-09-15 15:22:00,371-serverLog-INFO-result is True
+2020-09-15 15:22:03,460-serverLog-INFO-Got birthday: {'month': '11', 'year': '1989', 'day': '25'}
+2020-09-15 15:22:03,461-serverLog-INFO-Got programs: ['pyhton', 'java']
+2020-09-15 15:22:03,461-serverLog-INFO-Parsed programs: ['pyhton', 'java']
+2020-09-15 15:22:03,461-serverLog-INFO-Parsed employee: {'name': 'avi', 'birthday': {'day': '25', 'month': '11', 'year': '1989'}, 'department': 'QA', 'salary': '12000', 'programs': ['pyhton', 'java'], 'address': 'Tivon'}
+2020-09-15 15:22:03,461-serverLog-INFO-add_emp: avi
+2020-09-15 15:22:03,463-serverLog-INFO-Data Saved
+2020-09-15 15:22:03,463-serverLog-INFO-result is True
+2020-09-15 15:22:08,200-serverLog-INFO-Data Saved
+2020-09-15 15:22:08,200-serverLog-INFO-result is True
+2020-09-15 15:22:14,778-serverLog-INFO-Data Saved
+2020-09-15 15:22:14,778-serverLog-INFO-result is True
+2020-09-15 16:14:59,032-serverLog-INFO-Got birthday: {'month': '11', 'year': '1989', 'day': '25'}
+2020-09-15 16:14:59,032-serverLog-INFO-Got programs: ['pyhton', 'java']
+2020-09-15 16:14:59,032-serverLog-INFO-Parsed programs: ['pyhton', 'java']
+2020-09-15 16:14:59,033-serverLog-INFO-Parsed employee: {'name': 'avi', 'birthday': {'day': '25', 'month': '11', 'year': '1989'}, 'department': 'QA', 'salary': '12000', 'programs': ['pyhton', 'java'], 'address': 'Tivon'}
+2020-09-15 16:14:59,033-serverLog-INFO-add_emp: avi
+2020-09-15 16:14:59,033-serverLog-INFO-result is Employee exists
+2020-09-15 16:15:05,062-serverLog-INFO-Got birthday: {'month': '11', 'year': '1989', 'day': '25'}
+2020-09-15 16:15:05,062-serverLog-INFO-Got programs: ['pyhton', 'java']
+2020-09-15 16:15:05,062-serverLog-INFO-Parsed programs: ['pyhton', 'java']
+2020-09-15 16:15:05,063-serverLog-INFO-Parsed employee: {'name': 'avi1', 'birthday': {'day': '25', 'month': '11', 'year': '1989'}, 'department': 'QA', 'salary': '12000', 'programs': ['pyhton', 'java'], 'address': 'Tivon'}
+2020-09-15 16:15:05,063-serverLog-INFO-add_emp: avi1
+2020-09-15 16:15:05,067-serverLog-INFO-Data Saved
+2020-09-15 16:15:05,067-serverLog-INFO-result is True
+2020-09-15 16:15:10,131-serverLog-INFO-Delete Emp: avi
+2020-09-15 16:15:10,136-serverLog-INFO-Data Saved
+2020-09-15 16:15:10,136-serverLog-INFO-result is True
+2020-09-15 16:15:16,321-serverLog-INFO-result is Employee was not found
+2020-09-15 16:15:24,063-serverLog-INFO-Got birthday: {'month': '11', 'year': '1989', 'day': '25'}
+2020-09-15 16:15:24,063-serverLog-INFO-Got programs: ['pyhton', 'java']
+2020-09-15 16:15:24,063-serverLog-INFO-Parsed programs: ['pyhton', 'java']
+2020-09-15 16:15:24,064-serverLog-INFO-Parsed employee: {'name': 'avi', 'birthday': {'day': '25', 'month': '11', 'year': '1989'}, 'department': 'QA', 'salary': '12000', 'programs': ['pyhton', 'java'], 'address': 'Tivon'}
+2020-09-15 16:15:24,064-serverLog-INFO-add_emp: avi
+2020-09-15 16:15:24,067-serverLog-INFO-Data Saved
+2020-09-15 16:15:24,068-serverLog-INFO-result is True
+2020-09-15 16:15:27,920-serverLog-INFO-Data Saved
+2020-09-15 16:15:27,920-serverLog-INFO-result is True
+2020-09-15 16:15:31,406-serverLog-INFO-Data Saved
+2020-09-15 16:15:31,406-serverLog-INFO-result is True
+2020-09-15 16:15:34,914-serverLog-INFO-result is []
+2020-09-15 16:15:37,897-serverLog-INFO-Data Saved
+2020-09-15 16:15:37,898-serverLog-INFO-result is True
+2020-09-15 16:16:14,995-serverLog-INFO-Delete Emp: avi1
+2020-09-15 16:16:14,999-serverLog-INFO-Data Saved
+2020-09-15 16:16:15,001-serverLog-INFO-result is True
+2020-09-15 16:16:18,969-serverLog-INFO-Got birthday: {'month': '11', 'year': '1989', 'day': '25'}
+2020-09-15 16:16:18,971-serverLog-INFO-Got programs: ['pyhton', 'java']
+2020-09-15 16:16:18,971-serverLog-INFO-Parsed programs: ['pyhton', 'java']
+2020-09-15 16:16:18,971-serverLog-INFO-Parsed employee: {'name': 'avi2', 'birthday': {'day': '25', 'month': '11', 'year': '1989'}, 'department': 'QA', 'salary': '12000', 'programs': ['pyhton', 'java'], 'address': 'Tivon'}
+2020-09-15 16:16:18,972-serverLog-INFO-add_emp: avi2
+2020-09-15 16:16:18,972-serverLog-INFO-result is Employee limit reached. Cannot add another one.
+2020-09-15 16:16:31,178-serverLog-INFO-Data Saved
+2020-09-15 16:16:31,178-serverLog-INFO-result is True
+2020-09-15 16:16:40,889-serverLog-INFO-Got birthday: {'month': '11', 'year': '1989', 'day': '25'}
+2020-09-15 16:16:40,889-serverLog-INFO-Got programs: ['pyhton', 'java']
+2020-09-15 16:16:40,890-serverLog-INFO-Parsed programs: ['pyhton', 'java']
+2020-09-15 16:16:40,890-serverLog-INFO-Parsed employee: {'name': 'avi2', 'birthday': {'day': '25', 'month': '11', 'year': '1989'}, 'department': 'QA', 'salary': '12000', 'programs': ['pyhton', 'java'], 'address': 'Tivon'}
+2020-09-15 16:16:40,890-serverLog-INFO-add_emp: avi2
+2020-09-15 16:16:40,891-serverLog-INFO-result is Employee limit reached. Cannot add another one.
+2020-09-15 16:18:33,160-serverLog-INFO-Got birthday: {'month': '11', 'year': '1989', 'day': '25'}
+2020-09-15 16:18:33,160-serverLog-INFO-Got programs: ['pyhton', 'java']
+2020-09-15 16:18:33,160-serverLog-INFO-Parsed programs: ['pyhton', 'java']
+2020-09-15 16:18:33,161-serverLog-INFO-Parsed employee: {'name': 'Adam', 'birthday': {'day': '25', 'month': '11', 'year': '1989'}, 'department': 'QA', 'salary': '12000', 'programs': ['pyhton', 'java'], 'address': 'Tivon'}
+2020-09-15 16:18:33,161-serverLog-INFO-add_emp: Adam
+2020-09-15 16:18:33,163-serverLog-INFO-Data Saved
+2020-09-15 16:18:33,163-serverLog-INFO-result is True
+2020-09-15 16:19:06,852-serverLog-INFO-Delete Emp: Eytan
+2020-09-15 16:19:06,857-serverLog-INFO-Data Saved
+2020-09-15 16:19:06,858-serverLog-INFO-result is True
+2020-09-15 16:19:58,326-serverLog-INFO-result is Employee was not found
+2020-09-15 16:20:07,423-serverLog-INFO-Got birthday: {'month': '11', 'year': '1989', 'day': '25'}
+2020-09-15 16:20:07,423-serverLog-INFO-Got programs: ['pyhton', 'java']
+2020-09-15 16:20:07,424-serverLog-INFO-Parsed programs: ['pyhton', 'java']
+2020-09-15 16:20:07,424-serverLog-INFO-Parsed employee: {'name': 'Avi', 'birthday': {'day': '25', 'month': '11', 'year': '1989'}, 'department': 'QA', 'salary': '12000', 'programs': ['pyhton', 'java'], 'address': 'Tivon'}
+2020-09-15 16:20:07,424-serverLog-INFO-add_emp: Avi
+2020-09-15 16:20:07,428-serverLog-INFO-Data Saved
+2020-09-15 16:20:07,429-serverLog-INFO-result is True
+2020-09-15 16:20:09,611-serverLog-INFO-result is Employee was not found
+2020-09-15 16:20:16,882-serverLog-INFO-Got birthday: {'month': '11', 'year': '1989', 'day': '25'}
+2020-09-15 16:20:16,882-serverLog-INFO-Got programs: ['pyhton', 'java']
+2020-09-15 16:20:16,883-serverLog-INFO-Parsed programs: ['pyhton', 'java']
+2020-09-15 16:20:16,883-serverLog-INFO-Parsed employee: {'name': 'avi', 'birthday': {'day': '25', 'month': '11', 'year': '1989'}, 'department': 'QA', 'salary': '12000', 'programs': ['pyhton', 'java'], 'address': 'Tivon'}
+2020-09-15 16:20:16,883-serverLog-INFO-add_emp: avi
+2020-09-15 16:20:16,888-serverLog-INFO-Data Saved
+2020-09-15 16:20:16,888-serverLog-INFO-result is True
+2020-09-15 16:20:19,015-serverLog-INFO-Data Saved
+2020-09-15 16:20:19,015-serverLog-INFO-result is True
+2020-09-15 16:20:43,027-serverLog-INFO-result is []
+2020-09-15 16:20:47,640-serverLog-INFO-result is []
+2020-09-15 16:20:52,845-serverLog-INFO-result is []
+2020-09-15 16:21:02,680-serverLog-INFO-result is ['Adam', 'Avi', 'avi']
+2020-09-15 16:21:22,618-serverLog-INFO-Data Saved
+2020-09-15 16:21:22,619-serverLog-INFO-result is True
+2020-09-15 16:23:46,333-serverLog-INFO-Data Saved
+2020-09-15 16:23:46,333-serverLog-INFO-result is True
+2020-09-15 16:24:51,160-serverLog-INFO-Data Saved
+2020-09-15 16:24:51,160-serverLog-INFO-result is True
+2020-10-08 22:32:32,332-serverLog-ERROR-Exception error: name 'Employee' is not defined
+2020-10-08 22:33:07,504-serverLog-ERROR-Exception error: name 'Employee' is not defined
+2020-10-08 22:33:30,147-serverLog-ERROR-Exception error: name 'Employee' is not defined
+2020-10-08 22:34:41,743-serverLog-ERROR-Exception error: name 'Employee' is not defined
+2020-10-08 22:35:16,446-serverLog-INFO-Got birthday: {'month': '11', 'year': '1989', 'day': '25'}
+2020-10-08 22:35:16,446-serverLog-ERROR-Exception error: 'Employee' object has no attribute 'parse_programs'
+2020-10-08 22:35:23,955-serverLog-INFO-Got birthday: {'month': '11', 'year': '1989', 'day': '25'}
+2020-10-08 22:35:29,049-serverLog-ERROR-Exception error: 'Employee' object has no attribute 'parse_programs'
+2020-10-08 22:35:54,177-serverLog-INFO-Got birthday: {'month': '11', 'year': '1989', 'day': '25'}
+2020-10-08 22:35:54,177-serverLog-ERROR-Exception error: 'Employee' object has no attribute 'parse_programs'
+2020-10-08 22:36:24,635-serverLog-INFO-Got birthday: {'month': '11', 'year': '1989', 'day': '25'}
+2020-10-08 22:36:40,624-serverLog-INFO-Got birthday: {'month': '11', 'year': '1989', 'day': '25'}
+2020-10-08 22:37:31,719-serverLog-INFO-Got birthday: {'month': '11', 'year': '1989', 'day': '25'}
+2020-10-08 22:37:31,720-serverLog-INFO-Got programs: ['pyhton', 'java']
+2020-10-08 22:37:31,720-serverLog-INFO-Parsed programs: ['pyhton', 'java']
+2020-10-08 22:37:31,720-serverLog-INFO-Parsed employee: {'name': 'avi', 'birthday': {'day': '25', 'month': '11', 'year': '1989'}, 'department': 'QA', 'salary': '12000', 'programs': ['pyhton', 'java'], 'address': 'Tivon'}
+2020-10-08 22:37:31,720-serverLog-ERROR-Exception error: 'Employee' object has no attribute 'add_emp'
+2020-10-08 22:37:38,406-serverLog-INFO-Got birthday: {'month': '11', 'year': '1989', 'day': '25'}
+2020-10-08 22:37:39,869-serverLog-INFO-Got programs: ['pyhton', 'java']
+2020-10-08 22:37:39,870-serverLog-INFO-Parsed programs: ['pyhton', 'java']
+2020-10-08 22:37:44,879-serverLog-INFO-Parsed employee: {'name': 'avi', 'birthday': {'day': '25', 'month': '11', 'year': '1989'}, 'department': 'QA', 'salary': '12000', 'programs': ['pyhton', 'java'], 'address': 'Tivon'}
+2020-10-08 22:38:28,909-serverLog-INFO-Got birthday: {'month': '11', 'year': '1989', 'day': '25'}
+2020-10-08 22:38:28,912-serverLog-INFO-Got programs: ['pyhton', 'java']
+2020-10-08 22:38:28,914-serverLog-INFO-Parsed programs: ['pyhton', 'java']
+2020-10-08 22:38:31,572-serverLog-INFO-Parsed employee: {'name': 'avi', 'birthday': {'day': '25', 'month': '11', 'year': '1989'}, 'department': 'QA', 'salary': '12000', 'programs': ['pyhton', 'java'], 'address': 'Tivon'}
+2020-10-08 22:39:15,662-serverLog-INFO-Got birthday: {'month': '11', 'year': '1989', 'day': '25'}
+2020-10-08 22:39:15,662-serverLog-INFO-Got programs: ['pyhton', 'java']
+2020-10-08 22:39:15,662-serverLog-INFO-Parsed programs: ['pyhton', 'java']
+2020-10-08 22:39:17,526-serverLog-INFO-Parsed employee: {'name': 'avi', 'birthday': {'day': '25', 'month': '11', 'year': '1989'}, 'department': 'QA', 'salary': '12000', 'programs': ['pyhton', 'java'], 'address': 'Tivon'}
+2020-10-08 22:39:17,527-serverLog-INFO-add_emp: avi
+2020-10-08 22:39:17,529-serverLog-INFO-Data Saved
+2020-10-08 22:39:17,529-serverLog-INFO-result is True
+2020-10-08 22:39:28,679-serverLog-INFO-Delete Emp: Eytan
+2020-10-08 22:39:28,681-serverLog-INFO-Data Saved
+2020-10-08 22:39:28,682-serverLog-INFO-result is True
+2020-10-08 22:39:34,465-serverLog-INFO-Data Saved
+2020-10-08 22:39:34,466-serverLog-INFO-result is True
+2020-10-08 22:39:39,270-serverLog-INFO-Data Saved
+2020-10-08 22:39:39,271-serverLog-INFO-result is True
+2020-10-08 22:39:44,857-serverLog-INFO-result is ['avi']
+2020-10-08 22:39:50,076-serverLog-INFO-Data Saved
+2020-10-08 22:39:50,077-serverLog-INFO-result is True
+2020-10-08 22:39:53,937-serverLog-INFO-Data Saved
+2020-10-08 22:39:53,937-serverLog-INFO-result is True
+2020-10-08 22:39:58,019-serverLog-INFO-Data Saved
+2020-10-08 22:39:58,019-serverLog-INFO-result is True

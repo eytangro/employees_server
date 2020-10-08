@@ -1,0 +1,35 @@
+{
+    "employees": {
+        "Gil": {
+            "name": "Gil",
+            "birthday": {
+                "day": "20",
+                "month": "9",
+                "year": "1980"
+            },
+            "department": "QA",
+            "salary": "10000",
+            "programs": [
+                "python",
+                "java",
+                "C#"
+            ],
+            "address": "Haifa"
+        },
+        "Eytan": {
+            "name": "Eytan",
+            "birthday": {
+                "day": "8",
+                "month": "8",
+                "year": "1989"
+            },
+            "department": "QA",
+            "salary": "12000",
+            "programs": [
+                "pyhton",
+                "java"
+            ],
+            "address": "Tivon"
+        }
+    }
+}
